@@ -21,61 +21,72 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 
 * **Wed 12 Dec 2018**
-	 * **Paper:** TBA
-	 * **Moderator:** TBA
-	 * **Venue:** TBA
+	
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Venue:** TBA
 
 
 *  **Wed 05 Dec 2018**
-	* NAACL submissions review (deadline: Dec 10)
-	* **Venue:** TBA 
+	
+	- NAACL submissions review (deadline: Dec 10)
+	- **Venue:** TBA 
 
 
 * **Wed 28 Nov 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 21 Nov 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 14 Nov 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 07 Nov 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 31 Oct 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 24 Oct 2018** 
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 17 Oct 2018**
-	* **Paper:** TBA
-	* **Moderator:** TBA
-	* **Venue:** TBA
+	
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 10 Oct 2018**
-	* Kick-off meeting 
-	* **Venue:** COM-G22 Blue
+	
+	- Kick-off meeting 
+	- **Venue:** COM-G22 Blue
+
 
 -----
 
