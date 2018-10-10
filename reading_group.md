@@ -57,28 +57,28 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 * **Wed 07 Nov 2018**
 	
 	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Moderator:** Carol
 	- **Venue:** TBA
 
 
 * **Wed 31 Oct 2018**
 	
 	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Moderator:** Makis
 	- **Venue:** TBA
 
 
 * **Wed 24 Oct 2018** 
 	
 	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Moderator:** Areej
 	- **Venue:** TBA
 
 
 * **Wed 17 Oct 2018**
 	
-	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Paper:** [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf)
+	- **Moderator:** Nikos
 	- **Venue:** TBA
 
 
