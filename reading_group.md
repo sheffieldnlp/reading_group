@@ -82,16 +82,19 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Venue:** COM-G25
 
 
+-----
+
+Past Meetings
+---------------
+
+
 * **Wed 10 Oct 2018**
 	
 	- Kick-off meeting 
 	- **Venue:** COM-G22 Blue
 
 
------
 
-Past Meetings
----------------
 
 
 
