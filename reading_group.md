@@ -9,11 +9,6 @@ The meetings of the group are informal and no necessary preparation will be requ
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
 
 
-
-
-2018-2019
-=========
-
 ---
 
 ### Upcoming Meetings
