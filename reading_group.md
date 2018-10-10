@@ -14,11 +14,11 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 2018-2019
 =========
 
-## Autumn Semester
-
+---
 
 ### Upcoming Meetings
 
+---
 
 * **Wed 12 Dec 2018**
 	
