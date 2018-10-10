@@ -11,55 +11,64 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 
 
-
 2018-2019
 =========
 
 ## Autumn Semester
 
 
-Upcoming Meetings
----------------
+### Upcoming Meetings
 
-#### Wed 12 Dec 2018
 
-ΤΒΑ
+* **Wed 12 Dec 2018**
+	 * **Paper:** TBA
+	 * **Moderator:** TBA
+	 * **Venue:** TBA
 
-#### Wed 5 Dec 2018
+*  **Wed 05 Dec 2018**
 
-NAACL submissions review (deadline: Dec 10). 
+	* NAACL submissions review (deadline: Dec 10)
+	* **Venue:** TBA 
 
-#### Wed 28 Nov 2018
+* **Wed 28 Nov 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-ΤΒΑ
+* **Wed 21 Nov 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-#### Wed 21 Nov 2018
+* **Wed 14 Nov 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-ΤΒΑ
+* **Wed 07 Nov 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-#### Wed 14 Nov 2018
+* **Wed 31 Oct 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-ΤΒΑ
+* **Wed 24 Oct 2018** 
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-#### Wed 7 Nov 2018
+* **Wed 17 Oct 2018**
+	* **Paper:** TBA
+	* **Moderator:** TBA
+	* **Venue:** TBA
 
-ΤΒΑ
+* **Wed 10 Oct 2018**
 
-#### Wed 31 Oct 2018
-
-ΤΒΑ
-
-#### Wed 24 Oct 2018 
-
-ΤΒΑ
-
-#### Wed 17 Oct 2018
-
-ΤΒΑ
-
-#### Wed 10 Oct 2018
-
-Discussion about the format of the reading group (**COM-G22 Blue**)
+	* Kick-off meeting 
+	* **Venue:** COM-G22 Blue
 
 -----
 
