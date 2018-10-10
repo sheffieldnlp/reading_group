@@ -24,11 +24,11 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 * **Paper:** TBA
 	 * **Moderator:** TBA
 	 * **Venue:** TBA
-<br>
+
 *  **Wed 05 Dec 2018**
 	* NAACL submissions review (deadline: Dec 10)
 	* **Venue:** TBA 
-<br>
+
 * **Wed 28 Nov 2018**
 	* **Paper:** TBA
 	* **Moderator:** TBA
