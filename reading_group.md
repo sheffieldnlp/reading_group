@@ -19,62 +19,62 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
-	 - **Room:** TBA
+	 - **Venue:** TBA
 
 
 *  **Wed 05 Dec 2018**
 	
 	- NAACL submissions review (deadline: Dec 10)
-	- **Room:** TBA 
+	- **Venue:** TBA 
 
 
 * **Wed 28 Nov 2018**
 	
 	- **Paper:** TBA
-	- **Moderator:** TBA
-	- **Room:** TBA
+	- **Moderator:** Zeerak
+	- **Venue:** TBA
 
 
 * **Wed 21 Nov 2018**
 	
 	- **Paper:** TBA
 	- **Moderator:** TBA
-	- **Room:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 14 Nov 2018**
 	
 	- **Paper:** TBA
 	- **Moderator:** TBA
-	- **Room:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 07 Nov 2018**
 	
 	- **Paper:** TBA
 	- **Moderator:** Carol
-	- **Room:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 31 Oct 2018**
 	
 	- **Paper:** TBA
 	- **Moderator:** Makis
-	- **Room:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 24 Oct 2018** 
 	
 	- **Paper:** TBA
 	- **Moderator:** Areej
-	- **Room:** TBA
+	- **Venue:** TBA
 
 
 * **Wed 17 Oct 2018**
 	
 	- **Paper:** Dong, Quirk and Lapata (2018), [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf), In ACL
 	- **Moderator:** Nikos
-	- **Room:** COM-G25
+	- **Venue:** COM-G25
 
 
 -----
@@ -86,7 +86,7 @@ Past Meetings
 * **Wed 10 Oct 2018**
 	
 	- Kick-off meeting 
-	- **Room:** COM-G22 Blue
+	- **Venue:** COM-G22 Blue
 
 
 
