@@ -65,9 +65,9 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 * **Wed 24 Oct 2018** 
 	
-	- **Paper:** TBA
+	- **Paper:** Xing and Paul (2018), [Diagnosing and Improving Topic Models by Analyzing Posterior Variability](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16213/16168), In AAAI
 	- **Moderator:** Areej
-	- **Room:** TBA
+	- **Room:** COM-G25
 
 
 -----
