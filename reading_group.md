@@ -70,17 +70,18 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Room:** TBA
 
 
+-----
+
+Past Meetings
+---------------
+
+
 * **Wed 17 Oct 2018**
 	
 	- **Paper:** Dong, Quirk and Lapata (2018), [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf), In ACL
 	- **Moderator:** Nikos
 	- **Room:** COM-G25
 
-
------
-
-Past Meetings
----------------
 
 
 * **Wed 10 Oct 2018**
