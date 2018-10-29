@@ -44,16 +44,14 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 * **Wed 14 Nov 2018**
 	
-	- **Paper:** TBA
-	- **Moderator:** TBA
-	- **Room:** TBA
+	- **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
+	- **Moderator:** Carol
+	- **Room:** COM-G22 Blue
 
 
 * **Wed 07 Nov 2018**
 	
-	- **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
-	- **Moderator:** Carol
-	- **Room:** TBA
+	- **NLP seminar (RG is postponed)** 
 
 
 * **Wed 31 Oct 2018**
