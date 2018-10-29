@@ -62,6 +62,11 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Moderator:** Makis
 	- **Room:** COM-G25
 
+-----
+
+Past Meetings
+---------------
+
 
 * **Wed 24 Oct 2018** 
 	
@@ -70,10 +75,6 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Room:** COM-G25
 
 
------
-
-Past Meetings
----------------
 
 
 * **Wed 17 Oct 2018**
