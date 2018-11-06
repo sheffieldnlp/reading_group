@@ -54,16 +54,19 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **NLP seminar (RG is postponed)** 
 
 
+-----
+
+Past Meetings
+---------------
+
+
 * **Wed 31 Oct 2018**
 	
 	- **Paper:** Zheng et al (2018), [Multi-Reference Training with Pseudo-References for Neural Translation and Text Generation](https://arxiv.org/pdf/1808.09564.pdf), in EMNLP 2018
 	- **Moderator:** Makis
 	- **Room:** COM-G25
 
------
 
-Past Meetings
----------------
 
 
 * **Wed 24 Oct 2018** 
