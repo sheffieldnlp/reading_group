@@ -44,20 +44,20 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 * **Wed 14 Nov 2018**
 	
-	- **Paper:** TBA + EMNLP recap
+	- **Paper:** EMNLP recap
 	- **Moderator:** Zeerak
 	- **Room:** COM-G22 Blue
-	
-
-* **Wed 07 Nov 2018**
-	
-	- **NLP seminar (RG is postponed)** 
-
 
 -----
 
 Past Meetings
 ---------------
+
+
+* **Wed 07 Nov 2018**
+	
+	- **NLP seminar (RG is postponed)** 
+
 
 
 * **Wed 31 Oct 2018**
