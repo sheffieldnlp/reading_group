@@ -17,7 +17,7 @@
 
 ### Abiola
 
-* Kiros and Chan (2018): InferLite: Simple Universal Sentence Representations from Natural Language Inference Data [PDF](http://aclweb.org/anthology/D18-1524}
+* Kiros and Chan (2018): InferLite: Simple Universal Sentence Representations from Natural Language Inference Data [PDF](http://aclweb.org/anthology/D18-1524)
 * Yang (2018): Convolutional Neural Networks with Recurrent Neural Filters [PDF](http://aclweb.org/anthology/D18-1109)
 
 
