@@ -19,7 +19,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
-	 - **Room:** TBA
+	 - **Room:** COM-G25
 
 
 *  **Wed 05 Dec 2018**
@@ -32,14 +32,14 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	
 	- **Paper:** TBA
 	- **Moderator:** TBA
-	- **Room:** TBA
+	- **Room:** COM-G25
 
 
 * **Wed 21 Nov 2018**
 	
 	- **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
 	- **Moderator:** Carol
-	- **Room:** COM-G22 Blue
+	- **Room:** COM-G25
 
 -----
 
