@@ -48,7 +48,7 @@ Past Meetings
 
 * **Wed 14 Nov 2018**
 	
-	- **Paper:** EMNLP recap: [papers presented](emnlp2018_recap/emnlp2018_recap.md)
+	- **Paper:** EMNLP recap: [papers presented](conferences_recap/emnlp2018_recap.md)
 	- **Moderator:** Zeerak
 	- **Room:** COM-G22 Blue
 	
