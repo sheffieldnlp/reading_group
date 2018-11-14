@@ -40,19 +40,18 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
 	- **Moderator:** Carol
 	- **Room:** COM-G22 Blue
-	
-
-* **Wed 14 Nov 2018**
-	
-	- **Paper:** EMNLP recap
-	- **Moderator:** Zeerak
-	- **Room:** COM-G22 Blue
 
 -----
 
 Past Meetings
 ---------------
 
+* **Wed 14 Nov 2018**
+	
+	- **Paper:** EMNLP recap [Papers presented](emnlp2018_recap/emnlp2018_recap.md)
+	- **Moderator:** Zeerak
+	- **Room:** COM-G22 Blue
+	
 
 * **Wed 07 Nov 2018**
 	
