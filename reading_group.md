@@ -16,24 +16,26 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 ---
 
 * **Wed 12 Dec 2018**
-	
+
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
 	 - **Room:** COM-G25
 
 
 *  **Wed 05 Dec 2018**
-	
+
 	- NAACL submissions review (deadline: Dec 10)
-	- **Room:** TBA 
+	- **Room:** TBA
 
 
 * **Wed 28 Nov 2018**
-	
-	- **Paper:** TBA
-	- **Moderator:** TBA
-	- **Room:** COM-G25
-	  
+  * **Paper:** I'd like to try and look at the following three because they are all somewhat related, but with the focus on BERT and the transformer-based architectures and representations:
+    * Devlin etal (2018): BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805
+    * Cer etal (2018): Universal Sentence Encoder https://arxiv.org/abs/1803.11175
+    * Yang etal (2018): Learning Semantic Textual Similarity from Conversations https://arxiv.org/abs/1804.07754
+  * **Moderator:** Johann
+  * **Room:** COM-G25
+
 
 -----
 
@@ -50,20 +52,20 @@ Past Meetings
     * BPEs for MT: Sennrich et al. (2016): Neural Machine Translation of Rare Words with Subword Units. http://www.aclweb.org/anthology/P16-1162
 
 * **Wed 14 Nov 2018**
-	
+
 	- **Paper:** EMNLP recap: [papers presented](conferences_recap/emnlp2018_recap.md)
 	- **Moderator:** Zeerak
 	- **Room:** COM-G22 Blue
-	
+
 
 * **Wed 07 Nov 2018**
-	
-	- **NLP seminar (RG is postponed)** 
+
+	- **NLP seminar (RG is postponed)**
 
 
 
 * **Wed 31 Oct 2018**
-	
+
 	- **Paper:** Zheng et al (2018), [Multi-Reference Training with Pseudo-References for Neural Translation and Text Generation](https://arxiv.org/pdf/1808.09564.pdf), in EMNLP 2018
 	- **Moderator:** Makis
 	- **Room:** COM-G25
@@ -71,7 +73,7 @@ Past Meetings
 
 
 
-* **Wed 24 Oct 2018** 
+* **Wed 24 Oct 2018**
 	- **Paper:** Xing and Paul (2018), [Diagnosing and Improving Topic Models by Analyzing Posterior Variability](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16213/16168), In AAAI
 	- **Moderator:** Areej
 	- **Room:** COM-G25
@@ -80,7 +82,7 @@ Past Meetings
 
 
 * **Wed 17 Oct 2018**
-	
+
 	- **Paper:** Dong, Quirk and Lapata (2018), [Confidence Modeling for Neural Semantic Parsing](https://arxiv.org/pdf/1805.04604.pdf), In ACL
 	- **Moderator:** Nikos
 	- **Room:** COM-G25
@@ -88,15 +90,6 @@ Past Meetings
 
 
 * **Wed 10 Oct 2018**
-	
-	- Kick-off meeting 
+
+	- Kick-off meeting
 	- **Room:** COM-G22 Blue
-
-
-
-
-
-
-
-
-
