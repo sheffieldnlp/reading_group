@@ -36,10 +36,13 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 
 * **Wed 21 Nov 2018**
-	
-	- **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
-	- **Moderator:** Carol
-	- **Room:** COM-G25
+  * **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
+  * **Moderator:** Carol
+  * **Room:** COM-G25
+  * Related papers mentioned:
+    * word senses in embeddings: Arora etal 2016: Linear Algebraic Structure of Word Senses, with Applications to Polysemy. http://arxiv.org/abs/1601.03764
+    * combining different vector spaces: Coates and Bollegala 2018: Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings http://aclweb.org/anthology/N18-2031
+	  
 
 -----
 
@@ -69,7 +72,6 @@ Past Meetings
 
 
 * **Wed 24 Oct 2018** 
-	
 	- **Paper:** Xing and Paul (2018), [Diagnosing and Improving Topic Models by Analyzing Posterior Variability](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16213/16168), In AAAI
 	- **Moderator:** Areej
 	- **Room:** COM-G25
