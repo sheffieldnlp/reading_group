@@ -33,6 +33,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
     * Devlin etal (2018): BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805
     * Cer etal (2018): Universal Sentence Encoder https://arxiv.org/abs/1803.11175
     * Yang etal (2018): Learning Semantic Textual Similarity from Conversations https://arxiv.org/abs/1804.07754
+  * Note: it will help to know the paper: Vaswani etal (2017): Attention is all you need https://arxiv.org/abs/1706.03762
   * **Moderator:** Johann
   * **Room:** COM-G25
 
