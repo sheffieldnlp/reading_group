@@ -22,10 +22,15 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 - **Room:** COM-G25
 
 
+-----
+
+Past Meetings
+---------------
+
 *  **Wed 05 Dec 2018**
 
 	- NAACL submissions review (deadline: Dec 10)
-	- **Room:** TBA
+	- **Room:** G-25
 
 
 * **Wed 28 Nov 2018**
@@ -38,10 +43,6 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
   * **Room:** COM-G25
 
 
------
-
-Past Meetings
----------------
 
 * **Wed 21 Nov 2018**
   * **Paper:** Peters et al (2018), [Deep contextualized word representations](http://aclweb.org/anthology/N18-1202), NAACL 2018
