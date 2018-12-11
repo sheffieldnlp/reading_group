@@ -17,8 +17,10 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 * **Wed 12 Dec 2018**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Paper:** 
+	   * Wu etal (2018): Word Mover's Embedding: From Word2Vec to Document Embedding https://arxiv.org/abs/1811.01713
+	   * Wu etal (2018): D2KE: From Distance to Kernel and Embedding
+	 - **Moderator:** Johann
 	 - **Room:** COM-G25
 
 
