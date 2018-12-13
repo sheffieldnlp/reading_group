@@ -6,6 +6,8 @@ The meeting takes place weekly during term for one hour usually on **Wednesdays,
 
 The meetings of the group are informal and no necessary preparation will be required with the exception of the moderator reading the current paper and the rest having at least a brief overview of it.
 
+There is also a #readinggroup channel in the NLP group's inofficial Slack channel: https://usfd-nlp.slack.com/messages
+
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
 
 
