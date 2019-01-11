@@ -17,7 +17,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 ---
 
-* **Mon 21 Dec 2018**
+* **Mon 21 Jan 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
