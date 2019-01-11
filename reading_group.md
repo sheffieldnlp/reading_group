@@ -2,7 +2,7 @@
 
 The target audience is all the members of the NLP group and other possible interested participants.
 
-The meeting takes place weekly during term for one hour usually on **Wednesdays, 12-13:30pm**. See below a list of the upcoming and past meetings.
+The meeting takes place weekly during term for one hour usually on **Mondays, 13-14:30pm**. See below a list of the upcoming and past meetings.
 
 The meetings of the group are informal and no necessary preparation will be required with the exception of the moderator reading the current paper and the rest having at least a brief overview of it.
 
@@ -17,6 +17,18 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 ---
 
+* **Mon 21 Dec 2018**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+
+
+-----
+
+Past Meetings
+---------------
+
 * **Wed 12 Dec 2018**
 
 	 - **Paper:** 
@@ -25,11 +37,6 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 - **Moderator:** Johann
 	 - **Room:** COM-G25
 
-
------
-
-Past Meetings
----------------
 
 *  **Wed 05 Dec 2018**
 
