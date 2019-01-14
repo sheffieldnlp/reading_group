@@ -14,8 +14,124 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 ---
 
 ### Upcoming Meetings
-
 ---
+* ~~**Mon 27 May 2019**~~
+	**Cancelled: Spring Break Holiday**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 20 May 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 13 May 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 01 May 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* ~~**Mon 06 Apr 2019**~~
+	**Cancelled: Early May bank holiday**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 29 Apr 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* ~~**Mon 22 Apr 2019**~~
+	**Cancelled: Easter Monday**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 15 Apr 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 08 Apr 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 01 Apr 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 25 Feb 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 18 Mar 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 11 Mar 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 04 Mar 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 25 Feb 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 18 Feb 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 11 Feb 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 04 Feb 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+	 
+* **Mon 28 Jan 2019**
+
+	 - **Paper:** TBA
+	 - **Moderator:** TBA
+	 - **Room:** TBA
+
 
 * **Mon 21 Jan 2019**
 
