@@ -133,12 +133,6 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 - **Room:** TBA
 
 
-* **Mon 21 Jan 2019**
-
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
-	 - **Room:** TBA
-
 
 -----
 
