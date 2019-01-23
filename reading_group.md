@@ -13,10 +13,12 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 ---
 
-### Upcoming Meetings
+### Upcoming Meeting
 ---
 
 <!--
+
+Please choose an available slot if you'd like to present a paper!
 
 * ~~**Mon 27 May 2019**~~
 	**Cancelled: Spring Break Holiday**
