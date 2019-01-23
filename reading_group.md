@@ -15,6 +15,9 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 ### Upcoming Meetings
 ---
+
+<!--
+
 * ~~**Mon 27 May 2019**~~
 	**Cancelled: Spring Break Holiday**
 
@@ -125,6 +128,8 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
 	 - **Room:** TBA
+	 
+-->
 	 
 * **Mon 28 Jan 2019**
 
