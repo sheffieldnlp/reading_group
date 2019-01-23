@@ -128,8 +128,8 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	 
 * **Mon 28 Jan 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Paper:** Surya et al. (2019). [Unsupervised Neural Text Simplification](https://arxiv.org/abs/1810.07931)
+	 - **Moderator:** Fernando
 	 - **Room:** TBA
 
 
