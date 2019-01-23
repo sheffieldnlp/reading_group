@@ -137,7 +137,7 @@ Please choose an available slot if you'd like to present a paper!
 
 	 - **Paper:** Surya et al. (2019). [Unsupervised Neural Text Simplification](https://arxiv.org/abs/1810.07931)
 	 - **Moderator:** Fernando
-	 - **Room:** TBA
+	 - **Room:** G25
 
 
 
