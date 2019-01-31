@@ -124,20 +124,18 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
 	 - **Room:** TBA
-	 
+	
+-->	
+	
 * **Mon 04 Feb 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
-	 - **Room:** TBA
-	 
--->
-	 
-* **Mon 28 Jan 2019**
-
-	 - **Paper:** Surya et al. (2019). [Unsupervised Neural Text Simplification](https://arxiv.org/abs/1810.07931)
-	 - **Moderator:** Fernando
+	 - **Paper:** Howard and Ruder (ACL, 2018) [Universal Language Model Fine-tuning for Text Classification](http://aclweb.org/anthology/P18-1031)
+	 - **Moderator:** Nikos	
 	 - **Room:** G25
+	 
+
+	 
+
 
 
 
@@ -145,6 +143,12 @@ Please choose an available slot if you'd like to present a paper!
 
 Past Meetings
 ---------------
+
+* **Mon 28 Jan 2019**
+
+	 - **Paper:** Surya et al. (2019). [Unsupervised Neural Text Simplification](https://arxiv.org/abs/1810.07931)
+	 - **Moderator:** Fernando
+	 - **Room:** G25
 
 * **Wed 12 Dec 2018**
 
