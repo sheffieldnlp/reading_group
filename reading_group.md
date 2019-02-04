@@ -27,11 +27,9 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Moderator:** TBA
 	 - **Room:** TBA
 	 
-* **Mon 20 May 2019**
+* **Fri 17 May 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
-	 - **Room:** TBA
+	 - EMNLP Review session
 	 
 * **Mon 13 May 2019**
 
@@ -83,7 +81,7 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Moderator:** TBA
 	 - **Room:** TBA
 	 
-* **Mon 25 Feb 2019**
+* **Mon 25 Mar 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
@@ -92,37 +90,36 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 18 Mar 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Areej
 	 - **Room:** TBA
 	 
 * **Mon 11 Mar 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Cass
 	 - **Room:** TBA
 	 
-* **Mon 04 Mar 2019**
+* **Fri 01 Mar 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - ACL Review Session
 	 - **Room:** TBA
 	 
 * **Mon 25 Feb 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** George
 	 - **Room:** TBA
 	 
 * **Mon 18 Feb 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Hardy
 	 - **Room:** TBA
 	 
 * **Mon 11 Feb 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Fred
 	 - **Room:** TBA
 	
 -->	
