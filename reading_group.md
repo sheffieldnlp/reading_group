@@ -120,9 +120,9 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 11 Feb 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly (ArXiv) [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
 	 - **Moderator:** Fred
-	 - **Room:** TBA
+	 - **Room:** G12-Blue
 	
 
 	
