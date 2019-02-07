@@ -115,20 +115,18 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Paper:** TBA
 	 - **Moderator:** Hardy
 	 - **Room:** TBA
-	 
+	
+-->		
+
 * **Mon 11 Feb 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** Fred
 	 - **Room:** TBA
 	
--->	
-	
-* **Mon 04 Feb 2019**
 
-	 - **Paper:** Howard and Ruder (ACL, 2018) [Universal Language Model Fine-tuning for Text Classification](http://aclweb.org/anthology/P18-1031)
-	 - **Moderator:** Nikos	
-	 - **Room:** G25
+	
+
 	 
 
 	 
@@ -140,6 +138,12 @@ Please choose an available slot if you'd like to present a paper!
 
 Past Meetings
 ---------------
+
+* **Mon 04 Feb 2019**
+
+	 - **Paper:** Howard and Ruder (ACL, 2018) [Universal Language Model Fine-tuning for Text Classification](http://aclweb.org/anthology/P18-1031)
+	 - **Moderator:** Nikos	
+	 - **Room:** G25
 
 * **Mon 28 Jan 2019**
 
