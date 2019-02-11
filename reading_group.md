@@ -83,8 +83,9 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 25 Mar 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Paper:** 
+Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (ArXiv) [POTs: Protective Optimization Technologies](https://arxiv.org/abs/1806.02711)
+	 - **Moderator:** Zeerak
 	 - **Room:** TBA
 	 
 * **Mon 18 Mar 2019**
