@@ -110,29 +110,15 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 - **Paper:** TBA
 	 - **Moderator:** George
 	 - **Room:** TBA
-	 
+
+	
+-->		
+ 
 * **Mon 18 Feb 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** Hardy
 	 - **Room:** TBA
-	
--->		
-
-* **Mon 11 Feb 2019**
-
-	 - **Paper:** Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly (ArXiv) [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
-	 - **Moderator:** Fred
-	 - **Room:** G12-Blue
-	
-
-	
-
-	 
-
-	 
-
-
 
 
 -----
@@ -140,6 +126,12 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 Past Meetings
 ---------------
 
+* **Mon 11 Feb 2019**
+
+	 - **Paper:**  (Houlsby et al., 2019), ArXiv -- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
+	 - **Moderator:** Fred
+	 - **Room:** G12-Blue
+	
 * **Mon 04 Feb 2019**
 
 	 - **Paper:** Howard and Ruder (ACL, 2018) [Universal Language Model Fine-tuning for Text Classification](http://aclweb.org/anthology/P18-1031)
