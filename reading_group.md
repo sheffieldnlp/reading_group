@@ -116,9 +116,9 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
  
 * **Mon 18 Feb 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** (Dehghani et al., 2019), ArXiv -- [Universal Transformers] (https://arxiv.org/abs/1807.03819)
 	 - **Moderator:** Hardy
-	 - **Room:** TBA
+	 - **Room:** G25
 
 
 -----
