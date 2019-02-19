@@ -86,45 +86,44 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Paper:** 
 Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (ArXiv) [POTs: Protective Optimization Technologies](https://arxiv.org/abs/1806.02711)
 	 - **Moderator:** Zeerak
-	 - **Room:** TBA
+	 - **Room:** G12-Blue (Lewin Lab)
 	 
 * **Mon 18 Mar 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** Areej
-	 - **Room:** TBA
+	 - **Room:** G12-Blue (Lewin Lab)
 	 
 * **Mon 11 Mar 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** Cass
-	 - **Room:** TBA
+	 - **Room:** G12-Blue (Lewin Lab)
 	 
 * **Fri 01 Mar 2019**
 
 	 - ACL Review Session
-	 - **Room:** TBA
-	 
+	 - **Room:** G12-Blue (Lewin Lab)
+	
+-->	
+
 * **Mon 25 Feb 2019**
 
 	 - **Paper:** TBA
 	 - **Moderator:** George
-	 - **Room:** TBA
-
-	
--->		
- 
-* **Mon 18 Feb 2019**
-
-	 - **Paper:** (Dehghani et al., 2019), ArXiv -- [Universal Transformers] (https://arxiv.org/abs/1807.03819)
-	 - **Moderator:** Hardy
 	 - **Room:** G25
-
-
+		
 -----
+
 
 Past Meetings
 ---------------
+
+* **Mon 18 Feb 2019**
+
+	 - **Paper:** (Dehghani et al., 2019), ArXiv -- [Universal Transformers](https://arxiv.org/abs/1807.03819)
+	 - **Moderator:** Hardy
+	 - **Room:** G25
 
 * **Mon 11 Feb 2019**
 
