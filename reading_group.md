@@ -109,7 +109,7 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 
 * **Mon 25 Feb 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** (Leila Arras et al, 2017), ACL -- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](http://www.aclweb.org/anthology/W17-5221)
 	 - **Moderator:** George
 	 - **Room:** G25
 		
