@@ -99,13 +99,15 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 - **Paper:** TBA
 	 - **Moderator:** Cass
 	 - **Room:** G12-Blue (Lewin Lab)
+
+	
+-->	
 	 
 * **Fri 01 Mar 2019**
 
 	 - ACL Review Session
 	 - **Room:** G12-Blue (Lewin Lab)
-	
--->	
+
 
 * **Mon 25 Feb 2019**
 
