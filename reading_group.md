@@ -106,20 +106,24 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 * **Fri 01 Mar 2019**
 
 	 - ACL Review Session
+	 - **Time:** 13:00-15:00
 	 - **Room:** G12-Blue (Lewin Lab)
 
 
-* **Mon 25 Feb 2019**
 
-	 - **Paper:** (Leila Arras et al, 2017), ACL -- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](http://www.aclweb.org/anthology/W17-5221)
-	 - **Moderator:** George
-	 - **Room:** G25
 		
 -----
 
 
 Past Meetings
 ---------------
+
+* **Mon 25 Feb 2019**
+
+	 - **Paper:** (Leila Arras et al, 2017), ACL -- [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](http://www.aclweb.org/anthology/W17-5221)
+	 - **Moderator:** George
+	 - **Room:** G25
+
 
 * **Mon 18 Feb 2019**
 
