@@ -94,29 +94,29 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 - **Moderator:** Areej
 	 - **Room:** G12-Blue (Lewin Lab)
 	 
+	 
+-->
+	 
 * **Mon 11 Mar 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** Howard and Ruder (Arxiv, 2018) [Transfer Learning from LDA to BiLSTM-CNN for Offensive Language Detection in Twitter](https://arxiv.org/abs/1811.02906)
 	 - **Moderator:** Cass
 	 - **Room:** G12-Blue (Lewin Lab)
 
-	
--->	
+
+-----
+
+
+Past Meetings
+---------------
 	 
 * **Fri 01 Mar 2019**
 
 	 - ACL Review Session
 	 - **Time:** 13:00-15:00
 	 - **Room:** G12-Blue (Lewin Lab)
-
-
-
 		
------
 
-
-Past Meetings
----------------
 
 * **Mon 25 Feb 2019**
 
