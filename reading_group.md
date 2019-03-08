@@ -99,7 +99,7 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 
 * **Mon 11 Mar 2019**
 
-	 - **Paper:** Howard and Ruder (Arxiv, 2018) [Transfer Learning from LDA to BiLSTM-CNN for Offensive Language Detection in Twitter](https://arxiv.org/abs/1811.02906)
+	 - **Paper:** Gregor Wiedemann, Eugen Ruppert, Raghav Jindal, Chris Biemann (GermEval, 2018) [Transfer Learning from LDA to BiLSTM-CNN for Offensive Language Detection in Twitter](https://arxiv.org/abs/1811.02906)
 	 - **Moderator:** Cass
 	 - **Room:** G12-Blue (Lewin Lab)
 
