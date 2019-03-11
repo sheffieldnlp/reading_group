@@ -72,13 +72,13 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 08 Apr 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Yida
 	 - **Room:** TBA
 	 
 * **Mon 01 Apr 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** George
 	 - **Room:** TBA
 	 
 * **Mon 25 Mar 2019**
