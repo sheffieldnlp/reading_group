@@ -87,16 +87,22 @@ Please choose an available slot if you'd like to present a paper!
 Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (ArXiv) [POTs: Protective Optimization Technologies](https://arxiv.org/abs/1806.02711)
 	 - **Moderator:** Zeerak
 	 - **Room:** G12-Blue (Lewin Lab)
-	 
+-->	 
 * **Mon 18 Mar 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** Ran Ding, Ramesh Nallapati, Bing Xiang (EMNLP, 2018) [Coherence-Aware Neural Topic Modeling](https://arxiv.org/abs/1809.02687)
 	 - **Moderator:** Areej
 	 - **Room:** G12-Blue (Lewin Lab)
 	 
+-----
 	 
--->
-	 
+
+
+
+
+
+Past Meetings
+---------------
 * **Mon 11 Mar 2019**
 
 	 - **Paper:** Gregor Wiedemann, Eugen Ruppert, Raghav Jindal, Chris Biemann (GermEval, 2018) [Transfer Learning from LDA to BiLSTM-CNN for Offensive Language Detection in Twitter](https://arxiv.org/abs/1811.02906)
@@ -104,12 +110,6 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 - **Room:** G12-Blue (Lewin Lab)
 
 
------
-
-
-Past Meetings
----------------
-	 
 * **Fri 01 Mar 2019**
 
 	 - ACL Review Session
