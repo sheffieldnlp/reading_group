@@ -53,7 +53,7 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 29 Apr 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Albiola
 	 - **Room:** TBA
 	 
 * ~~**Mon 22 Apr 2019**~~
@@ -93,7 +93,7 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 
 * **Mon 18 Mar 2019**
 
-	 - **Paper:** [Coherence Aware Topic Modeling (EMNLP 2028) ](http://aclweb.org/anthology/D18-1096)
+	 - **Paper:** [Coherence Aware Topic Modeling (EMNLP 2018) ](http://aclweb.org/anthology/D18-1096)
 	 - **Moderator:** Areej
 	 - **Room:** G22-Orange
 	 
