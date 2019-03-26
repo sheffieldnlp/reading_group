@@ -74,15 +74,19 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Paper:** TBA
 	 - **Moderator:** Yida
 	 - **Room:** TBA
-	 
+	 	 
+-->
+
 * **Mon 01 Apr 2019**
 
 	 - **Paper:** Sarthak Jain and Byron C. Wallace (ArXiv) [Attention is not Explanation] (https://arxiv.org/pdf/1902.10186.pdf) 
 	 - **Moderator:** George
 	 - **Room:** G12-Blue (Lewing Lab)
-	 
-	 
--->
+
+-----
+
+Past Meetings
+---------------
 
 * **Mon 25 Mar 2019**
 
@@ -96,18 +100,6 @@ Rebekah Overdorf, Bogdan Kulynych, Ero Balsa, Carmela Troncoso, Seda Gürses (Ar
 	 - **Paper:** [Coherence Aware Topic Modeling (EMNLP 2018) ](http://aclweb.org/anthology/D18-1096)
 	 - **Moderator:** Areej
 	 - **Room:** G22-Orange
-	 
-	 
-
-	 
-
-
-
------
-
-
-Past Meetings
----------------
 
 * **Mon 11 Mar 2019**
 
