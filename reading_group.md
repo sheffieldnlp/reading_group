@@ -77,9 +77,9 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 01 Apr 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** Sarthak Jain and Byron C. Wallace (ArXiv) [Attention is not Explanation] (https://arxiv.org/pdf/1902.10186.pdf) 
 	 - **Moderator:** George
-	 - **Room:** TBA
+	 - **Room:** G12-Blue (Lewing Lab)
 	 
 	 
 -->
