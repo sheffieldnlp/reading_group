@@ -66,7 +66,7 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 15 Apr 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Alison
 	 - **Room:** TBA
 	 
 * **Mon 08 Apr 2019**
