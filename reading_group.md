@@ -71,9 +71,13 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 08 Apr 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** 
+	 Identifying and understanding user reactions to deceptive and trusted social news sources
+	 (https://arxiv.org/pdf/1805.12032.pdf) 
+	 How Humans versus Bots React to Deceptive and Trusted News Sources: A Case Study of Active Users
+	 (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8508700)
 	 - **Moderator:** Yida
-	 - **Room:** TBA
+	 - **Room:** G12-Blue
 	 	 
 -->
 
