@@ -80,7 +80,10 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Moderator:** Yida
 	 - **Room:** G12-Blue
 	 	 
--->
+-----
+
+Past Meetings
+---------------
 
 * **Mon 01 Apr 2019**
 
@@ -88,10 +91,7 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Moderator:** George
 	 - **Room:** G12-Blue (Lewing Lab)
 
------
 
-Past Meetings
----------------
 
 * **Mon 25 Mar 2019**
 
