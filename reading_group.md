@@ -65,7 +65,7 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 15 Apr 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** Nathaniel Swinger, Maria De-Arteaga, Neil Thomas Heffernan IV, Mark DM Leiserson and Adam Tauman Kalai. (2018). What are the biases in my word embedding?  (https://arxiv.org/abs/1812.08769)
 	 - **Moderator:** Alison
 	 - **Room:** TBA
 -->
