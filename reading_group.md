@@ -37,10 +37,10 @@ Please choose an available slot if you'd like to present a paper!
 	 - **Moderator:** TBA
 	 - **Room:** TBA
 	 
-* **Mon 01 May 2019**
+* **Mon 06 May 2019**
 
 	 - **Paper:** TBA
-	 - **Moderator:** TBA
+	 - **Moderator:** Zeerak
 	 - **Room:** TBA
 	 
 * ~~**Mon 06 Apr 2019**~~
