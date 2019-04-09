@@ -66,7 +66,7 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 15 Apr 2019**
 
-	 - **Paper:** Nathaniel Swinger, Maria De-Arteaga, Neil Thomas Heffernan IV, Mark DM Leiserson and Adam Tauman Kalai. (2018). What are the biases in my word embedding?  (https://arxiv.org/abs/1812.08769)
+	 - **Paper:** Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. 2016. Man is to computer programmer as woman is to homemaker? Debiasing word embeddings. (https://dl.acm.org/citation.cfm?id=3157584)
 	 - **Moderator:** Alison
 	 - **Room:** TBA
 	 	 
