@@ -39,11 +39,12 @@ Please choose an available slot if you'd like to present a paper!
 	 
 * **Mon 06 May 2019**
 
-	 - **Paper:** TBA
+	 - **Paper:** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes
+Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky and Adam Kalai (https://arxiv.org/abs/1904.05233v1)
 	 - **Moderator:** Zeerak
 	 - **Room:** TBA
 	 
-* ~~**Mon 06 Apr 2019**~~
+* ~~**Mon 06 May 2019**~~
 	**Cancelled: Early May bank holiday**
 
 	 - **Paper:** TBA
