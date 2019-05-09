@@ -20,6 +20,13 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 Please choose an available slot if you'd like to present a paper!
 
+* **Mon 3 Jun 2019**
+	 
+	 - **Paper:** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes
+Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky and Adam Kalai (https://arxiv.org/abs/1904.05233v1)
+	 - **Moderator:** Zeerak
+	 - **Room:** TBA
+	 
 * ~~**Mon 27 May 2019**~~
 	**Cancelled: Spring Break Holiday**
 
@@ -30,19 +37,18 @@ Please choose an available slot if you'd like to present a paper!
 * **Fri 17 May 2019**
 
 	 - EMNLP Review session
-	 
+
+-->
+
 * **Mon 13 May 2019**
 
-	 - **Paper:** TBA
-	 - **Moderator:** TBA
-	 - **Room:** TBA
-	 
-* **Mon 06 May 2019**
+	 - **Paper:** (Lei et al., 2017), ArXiv -- [Simple Recurrent Units for Highly Parallelizable Recurrence](https://arxiv.org/abs/1709.02755)
+	 - **Moderator:** Abiola
+	 - **Room:** G25
+-----
 
-	 - **Paper:** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes
-Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky and Adam Kalai (https://arxiv.org/abs/1904.05233v1)
-	 - **Moderator:** Zeerak
-	 - **Room:** TBA
+Past Meetings
+--------------- 
 	 
 * ~~**Mon 06 May 2019**~~
 	**Cancelled: Early May bank holiday**
@@ -63,18 +69,12 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
 	 - **Room:** TBA
--->
 	 
 * **Mon 15 Apr 2019**
 
 	 - **Paper:** Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai. 2016. Man is to computer programmer as woman is to homemaker? Debiasing word embeddings. (https://dl.acm.org/citation.cfm?id=3157584)
 	 - **Moderator:** Alison
 	 - **Room:** TBA
-	 	 
------
-
-Past Meetings
----------------
 
 * **Mon 08 Apr 2019**
 
