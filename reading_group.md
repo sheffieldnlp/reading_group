@@ -22,6 +22,10 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 3 Jun 2019**
 	 
+	  - **Paper:** 
+	 - **Moderator:** George
+	 - **Room:** TBA
+	 
 	 - **Paper:** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes
 Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky and Adam Kalai (https://arxiv.org/abs/1904.05233v1)
 	 - **Moderator:** Zeerak
@@ -33,23 +37,27 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 	 - **Paper:** TBA
 	 - **Moderator:** TBA
 	 - **Room:** TBA
-	 
+
+-->
+
 * **Fri 17 May 2019**
 
 	 - EMNLP Review session
 
--->
+
+
+
+-----
+
+Past Meetings
+--------------- 
 
 * **Mon 13 May 2019**
 
 	 - **Paper:** (Lei et al., 2017), ArXiv -- [Simple Recurrent Units for Highly Parallelizable Recurrence](https://arxiv.org/abs/1709.02755)
 	 - **Moderator:** Abiola
 	 - **Room:** G25
------
 
-Past Meetings
---------------- 
-	 
 * ~~**Mon 06 May 2019**~~
 	**Cancelled: Early May bank holiday**
 
