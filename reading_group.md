@@ -20,11 +20,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 Please choose an available slot if you'd like to present a paper!
 
-* **Mon 3 Jun 2019**
-	 
-	  - **Paper:** 
-	 - **Moderator:** George
-	 - **Room:** TBA
+
 	 
 	 - **Paper:** What’s in a Name? Reducing Bias in Bios Without Access to Protected Attributes
 Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borgs, Alexandra Chouldechova, Sahin Geyik, Krishnaram Kenthapadi, Anna Rumshisky and Adam Kalai (https://arxiv.org/abs/1904.05233v1)
@@ -40,10 +36,12 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 
 -->
 
-* **Fri 17 May 2019**
 
-	 - EMNLP Review session
-
+* **Mon 3 Jun 2019**
+	 
+	 - (\*ACL) Paper writing tips   
+	 - **Moderator:** Nikos
+	 - **Room:** G12-Blue
 
 
 
@@ -51,6 +49,11 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 
 Past Meetings
 --------------- 
+
+* **Fri 17 May 2019**
+
+	 - EMNLP Review session
+
 
 * **Mon 13 May 2019**
 
