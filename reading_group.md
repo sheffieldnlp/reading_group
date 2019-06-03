@@ -36,6 +36,13 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 
 -->
 
+* **Mon 10 Jun 2019**
+	 
+	 - TBD
+	 - **Moderator:** George
+	 - **Room:** G12-Blue
+
+
 
 * **Mon 3 Jun 2019**
 	 
