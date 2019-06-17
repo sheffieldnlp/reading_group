@@ -20,6 +20,26 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 
 Please choose an available slot if you'd like to present a paper!
 
+
+* **Mon 8 Jul 2019&&
+
+	- TBD
+	- **Moderator:** Haiyang
+	- **Room:** G12-Blue
+
+* **Mon 1 Jul 2019&&
+
+	- TBD
+	- **Moderator:** Yida
+	- **Room:** G12-Blue
+
+
+* **Mon 24 Jun 2019&&
+
+	- TBD
+	- **Moderator:** Varvara
+	- **Room:** G12-Blue
+
 -->
 
 * **Mon 17 Jun 2019&&
