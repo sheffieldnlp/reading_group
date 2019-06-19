@@ -32,15 +32,15 @@ Please choose an available slot if you'd like to present a paper!
 	- TBD
 	- **Moderator:** Yida
 	- **Room:** G12-Blue
+-->
 
+* **Mon 24 Jun 2019**
 
-* **Mon 24 Jun 2019&&
-
-	- TBD
+	- **Paper:** (Mao et al., 2018), ACL -- [Word Embedding and WordNet Based Metaphor Identification and Interpretation](https://www.aclweb.org/anthology/P18-1113) 
 	- **Moderator:** Varvara
 	- **Room:** G12-Blue
 
--->
+
 
 * **Mon 17 Jun 2019&&
 
