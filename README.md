@@ -34,6 +34,8 @@ Please choose an available slot if you'd like to present a paper!
 	- **Room:** G12-Blue
 -->
 
+
+
 * **Mon 24 Jun 2019**
 
 	- **Paper:** (Mao et al., 2018), ACL -- [Word Embedding and WordNet Based Metaphor Identification and Interpretation](https://www.aclweb.org/anthology/P18-1113) 
@@ -41,6 +43,10 @@ Please choose an available slot if you'd like to present a paper!
 	- **Room:** G12-Blue
 
 
+-----
+
+Past Meetings
+--------------- 
 
 * **Mon 17 Jun 2019&&
 
@@ -65,10 +71,7 @@ Alexey Romanov, Maria De-Arteaga, Hanna Wallach, Jennifer Chayes, Christian Borg
 
 
 
------
 
-Past Meetings
---------------- 
 
 * **Fri 17 May 2019**
 
