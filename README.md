@@ -26,13 +26,14 @@ Please choose an available slot if you'd like to present a paper!
 	- TBD
 	- **Moderator:** Haiyang
 	- **Room:** G12-Blue
+---
 
 * **Mon 1 Jul 2019&&
 
-	- TBD
+	- Early Rumour Detection (Zhou et al., 2019) NAACL 2019. (https://www.aclweb.org/anthology/N19-1163)
 	- **Moderator:** Yida
 	- **Room:** G12-Blue
--->
+
 
 
 
