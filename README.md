@@ -26,7 +26,7 @@ Please choose an available slot if you'd like to present a paper!
 	- TBD
 	- **Moderator:** Haiyang
 	- **Room:** G12-Blue
----
+--->
 
 * **Mon 1 Jul 2019&&
 
@@ -35,7 +35,10 @@ Please choose an available slot if you'd like to present a paper!
 	- **Room:** G12-Blue
 
 
+-----
 
+Past Meetings
+--------------- 
 
 * **Mon 24 Jun 2019**
 
@@ -44,10 +47,7 @@ Please choose an available slot if you'd like to present a paper!
 	- **Room:** G12-Blue
 
 
------
 
-Past Meetings
---------------- 
 
 * **Mon 17 Jun 2019&&
 
