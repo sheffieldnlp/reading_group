@@ -21,9 +21,9 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
-* **Mon 8 Jul 2019&&
+* **Mon 8 Jul 2019**
 
-	- Tay et al. KDD 2018. Multi-Pointer Co-Attention Networks for Recommendation. (https://arxiv.org/abs/1611.01604)
+	- **Paper:** Tay et al. KDD 2018. Multi-Pointer Co-Attention Networks for Recommendation. (https://arxiv.org/abs/1611.01604)
 	- **Moderator:** Haiyang
 	- **Room:** G12-Blue
 -----
