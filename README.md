@@ -23,7 +23,7 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 8 Jul 2019**
 
-	- **Paper:** Tay et al. KDD 2018. Multi-Pointer Co-Attention Networks for Recommendation. (https://arxiv.org/abs/1611.01604)
+	- **Paper:** Tay et al. KDD 2018. Multi-Pointer Co-Attention Networks for Recommendation. (https://arxiv.org/abs/1801.09251)
 	- **Moderator:** Haiyang
 	- **Room:** G12-Blue
 -----
