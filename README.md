@@ -9,61 +9,62 @@ The meetings of the group are informal and no necessary preparation will be requ
 There is also a #readinggroup channel in the NLP group's inofficial Slack channel: https://usfd-nlp.slack.com/messages
 
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
-
+<!--	
 * **Mon 09 Dec 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 02 Dec 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 25 Nov 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 18 Nov 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 11 Nov 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 4 Nov 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 28 Oct 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 21 Oct 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-
+<!--	
 * **Mon 14 Oct 2019**
 
 	- **Paper:** 
 	- **Moderator:** 
 	- **Room:** G12-Blue
-	
+
+<!--	
 * **Mon 7 Oct 2019**
 
 	- **Paper:** 
