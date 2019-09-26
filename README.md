@@ -10,6 +10,65 @@ There is also a #readinggroup channel in the NLP group's inofficial Slack channe
 
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
 
+* **Mon 09 Dec 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 02 Dec 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 25 Nov 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 18 Nov 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 11 Nov 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 4 Nov 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 28 Oct 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 21 Oct 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+* **Mon 14 Oct 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+	
+* **Mon 7 Oct 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
 
 ---
 
@@ -21,15 +80,24 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
+* **Mon 30 Sep 2019**
+
+	- **Paper:** 
+	- **Moderator:** 
+	- **Room:** G12-Blue
+
+-----
+
+Past Meetings
+--------------- 
+
+
 * **Mon 8 Jul 2019**
 
 	- **Paper:** Tay et al. KDD 2018. Multi-Pointer Co-Attention Networks for Recommendation. (https://arxiv.org/abs/1801.09251)
 	- **Moderator:** Haiyang
 	- **Room:** G12-Blue
------
 
-Past Meetings
---------------- 
 
 * **Mon 1 Jul 2019&&
 
