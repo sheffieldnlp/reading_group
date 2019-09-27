@@ -83,8 +83,8 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 30 Sep 2019**
 
-	- **Paper:** 
-	- **Moderator:** 
+	- **Paper:** Weight Uncertainty in Neural Networks (Blundell et al. 2015) (http://proceedings.mlr.press/v37/blundell15.pdf) 
+	- **Moderator:** George
 	- **Room:** G12-Blue
 
 -----
