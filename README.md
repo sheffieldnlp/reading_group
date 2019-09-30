@@ -49,27 +49,21 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 * **Mon 28 Oct 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Xutan
 	- **Room:** G12-Blue
 <!--	
 * **Mon 21 Oct 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Yida
 	- **Room:** G12-Blue
 <!--	
 * **Mon 14 Oct 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Hardy
 	- **Room:** G12-Blue
 
-<!--	
-* **Mon 7 Oct 2019**
-
-	- **Paper:** 
-	- **Moderator:** 
-	- **Room:** G12-Blue
 --->
 ---
 
@@ -81,16 +75,22 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
-* **Mon 30 Sep 2019**
+* **Mon 7 Oct 2019**
 
-	- **Paper:** Weight Uncertainty in Neural Networks (Blundell et al. 2015) (http://proceedings.mlr.press/v37/blundell15.pdf) 
-	- **Moderator:** George
+	- **Paper:** TBA
+	- **Moderator:** Fernando 
 	- **Room:** G12-Blue
 
 -----
 
 Past Meetings
 --------------- 
+
+* **Mon 30 Sep 2019**
+
+	- **Paper:** Weight Uncertainty in Neural Networks (Blundell et al. 2015) (http://proceedings.mlr.press/v37/blundell15.pdf) 
+	- **Moderator:** George
+	- **Room:** G12-Blue
 
 
 * **Mon 8 Jul 2019**
