@@ -36,8 +36,8 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 <!--	
 * **Mon 11 Nov 2019**
 
-	- **Paper:** 
-	- **Moderator:** 
+	- **Paper:** Incorporating Priors with Feature Attribution on Text Classification (https://www.aclweb.org/anthology/P19-1631)
+	- **Moderator:** Zeerak
 	- **Room:** G12-Blue
 <!--	
 * **Mon 4 Nov 2019**
