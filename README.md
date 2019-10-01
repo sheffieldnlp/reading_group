@@ -77,7 +77,7 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 7 Oct 2019**
 
-	- **Paper:** [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267/)
+	- **Paper:** [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267/) (ACL 2019 - Outstanding Paper Award)
 	- **Moderator:** Fernando 
 	- **Room:** G12-Blue
 
