@@ -57,7 +57,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Paper:** 
 	- **Moderator:** Yida
 	- **Room:** G12-Blue
-<!--	
+--->	
 
 
 ### Upcoming Meeting
