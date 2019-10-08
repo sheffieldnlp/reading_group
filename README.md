@@ -58,14 +58,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Moderator:** Yida
 	- **Room:** G12-Blue
 <!--	
-* **Mon 14 Oct 2019**
 
-	- **Paper:** 
-	- **Moderator:** Hardy
-	- **Room:** G12-Blue
-
---->
----
 
 ### Upcoming Meeting
 ---
@@ -75,17 +68,24 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
-* **Mon 7 Oct 2019**
+* **Mon 14 Oct 2019**
 
-	- **Paper:** [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267/) (ACL 2019 - Outstanding Paper Award)
-	- **[Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms](https://www.mitpressjournals.org/doi/pdf/10.1162/089976698300017197)**
-	- **Moderator:** Fernando 
+	- **Paper:**  [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](http://proceedings.mlr.press/v97/chu19b/chu19b.pdf)
+	- **Moderator:** Hardy
 	- **Room:** G12-Blue
 
 -----
 
 Past Meetings
 --------------- 
+
+* **Mon 7 Oct 2019**
+
+	- **Paper:** [We need to talk about standard splits](https://www.aclweb.org/anthology/P19-1267/) (ACL 2019 - Outstanding Paper Award)
+	- **[Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms](https://www.mitpressjournals.org/doi/pdf/10.1162/089976698300017197)**
+	- **Moderator:** Fernando 
+	- **Room:** G12-Blue
+	
 
 * **Mon 30 Sep 2019**
 
