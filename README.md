@@ -54,7 +54,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 <!--	
 
 ### Upcoming Meeting
- **Mon 21 Oct 2019**
+* **Mon 21 Oct 2019**
 
 	- **Paper:** Fine-Grained Analysis of Propaganda in News Articles (https://arxiv.org/pdf/1910.02517.pdf)
 	- **Moderator:** Yida
@@ -69,16 +69,18 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
+
+
+-----
+
+Past Meetings
+--------------- 
 * **Mon 14 Oct 2019**
 
 	- **Paper:**  [MeanSum: A Neural Model for Unsupervised Multi-document Abstractive Summarization](http://proceedings.mlr.press/v97/chu19b/chu19b.pdf)
 	- **Moderator:** Hardy
 	- **Room:** G12-Blue
 
------
-
-Past Meetings
---------------- 
 
 * **Mon 7 Oct 2019**
 
