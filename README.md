@@ -51,7 +51,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Paper:** 
 	- **Moderator:** Xutan
 	- **Room:** G12-Blue
-<!--	
+	
 
 ### Upcoming Meeting
 * **Mon 21 Oct 2019**
