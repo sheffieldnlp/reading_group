@@ -52,15 +52,16 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Moderator:** Xutan
 	- **Room:** G12-Blue
 <!--	
-* **Mon 21 Oct 2019**
 
-	- **Paper:** 
+### Upcoming Meeting
+ **Mon 21 Oct 2019**
+
+	- **Paper:** Fine-Grained Analysis of Propaganda in News Articles (https://arxiv.org/pdf/1910.02517.pdf)
 	- **Moderator:** Yida
 	- **Room:** G12-Blue
 --->	
 
 
-### Upcoming Meeting
 ---
 
 <!--
