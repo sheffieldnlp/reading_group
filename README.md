@@ -61,7 +61,8 @@ Please choose an available slot if you'd like to present a paper!
 ### Upcoming Meeting
 * **Mon 28 Oct 2019**
 
-	- **Paper:** A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings([link](https://www.aclweb.org/anthology/P18-1073.pdf)|[video](https://vimeo.com/285800964)|[slides](https://www.aclweb.org/anthology/attachments/P18-1073.Presentation.pdf))
+	- **Paper:** A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings
+	([link](https://www.aclweb.org/anthology/P18-1073.pdf)|[video](https://vimeo.com/285800964)|[slides](https://www.aclweb.org/anthology/attachments/P18-1073.Presentation.pdf))
 	- **Moderator:** Xutan
 	- **Room:** G12-Blue
 
