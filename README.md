@@ -62,17 +62,16 @@ Please choose an available slot if you'd like to present a paper!
 	- **Moderator:** Katerina
 	- **Room:** G12-Blue
 	
+
+Past Meetings
+--------------- 
 * **Mon 28 Oct 2019**
 
 	- **Paper:** A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings
 	([link](https://www.aclweb.org/anthology/P18-1073.pdf)|[video](https://vimeo.com/285800964)|[slides](https://www.aclweb.org/anthology/attachments/P18-1073.Presentation.pdf))
 	- **Moderator:** Xutan
 	- **Room:** G12-Blue
-
-
-
-Past Meetings
---------------- 
+	
 * **Mon 21 Oct 2019**
 
 	- **Paper:** Fine-Grained Analysis of Propaganda in News Articles (https://arxiv.org/pdf/1910.02517.pdf)
