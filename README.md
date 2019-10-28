@@ -40,11 +40,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Moderator:** Zeerak
 	- **Room:** G12-Blue
 <!--	
-* **Mon 4 Nov 2019**
 
-	- **Paper:** DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. NeurIPS workshop paper 2019 (paper: https://arxiv.org/pdf/1910.01108.pdf blog:https://medium.com/huggingface/distilbert-8cf3380435b5)
-	- **Moderator:** Katerina
-	- **Room:** G12-Blue
 
 
 ---
@@ -59,6 +55,13 @@ Please choose an available slot if you'd like to present a paper!
 -----
 
 ### Upcoming Meeting
+
+* **Mon 4 Nov 2019**
+
+	- **Paper:** DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. NeurIPS workshop paper 2019 ([paper](https://arxiv.org/pdf/1910.01108.pdf) | [blog](https://medium.com/huggingface/distilbert-8cf3380435b5)
+	- **Moderator:** Katerina
+	- **Room:** G12-Blue
+	
 * **Mon 28 Oct 2019**
 
 	- **Paper:** A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings
