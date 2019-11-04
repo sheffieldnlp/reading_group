@@ -10,10 +10,9 @@ There is also a #readinggroup channel in the NLP group's inofficial Slack channe
 
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
 <!--	
-* **Mon 09 Dec 2019**
+* **Fri 06 Dec 2019**
 
-	- **Paper:** 
-	- **Moderator:** 
+	- ***ACL Review/Feedback session*
 	- **Room:** G12-Blue
 <!--	
 * **Mon 02 Dec 2019**
