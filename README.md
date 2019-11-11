@@ -18,19 +18,19 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 * **Mon 02 Dec 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Cancel due to ACL deadline
 	- **Room:** G12-Blue
 <!--	
 * **Mon 25 Nov 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Varvara
 	- **Room:** G12-Blue
 <!--	
 * **Mon 18 Nov 2019**
 
 	- **Paper:** 
-	- **Moderator:** 
+	- **Moderator:** Mali
 	- **Room:** G12-Blue
 <!--	
 
