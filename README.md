@@ -26,13 +26,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Paper:** 
 	- **Moderator:** Varvara
 	- **Room:** G12-Blue
-<!--	
-* **Mon 18 Nov 2019**
 
-	- **Paper:** 
-	- **Moderator:** Mali
-	- **Room:** G12-Blue
-<!--	
 
 
 Please choose an available slot if you'd like to present a paper!
@@ -43,16 +37,21 @@ Please choose an available slot if you'd like to present a paper!
 -----
 
 ### Upcoming Meeting
+* **Mon 18 Nov 2019**
 
+	- **Paper:** [Hierarchical Transfer Learning for Multi-label Text Classification](https://www.aclweb.org/anthology/P19-1633.pdf)
+	- **Moderator:** Mali
+	- **Room:** G12-Blue
+	
+	
+Past Meetings
+--------------- 
 * **Mon 11 Nov 2019**
 
 	- **Paper:** Incorporating Priors with Feature Attribution on Text Classification (https://www.aclweb.org/anthology/P19-1631)
-	- **Moderator:** Zeerak
+	- **Moderator:** -
 	- **Room:** G12-Blue
 	
-
-Past Meetings
---------------- 
 * **Mon 4 Nov 2019**
 
 	- **Paper:** DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. NeurIPS workshop paper 2019 ([paper](https://arxiv.org/pdf/1910.01108.pdf)|[blog](https://medium.com/huggingface/distilbert-8cf3380435b5)|[slides](https://drive.google.com/file/d/1b6dfEgmXJteuFLa2DuWivzSpOiplQq4P/view))
