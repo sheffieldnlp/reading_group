@@ -21,11 +21,7 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 	- **Moderator:** Cancel due to ACL deadline
 	- **Room:** G12-Blue
 <!--	
-* **Mon 25 Nov 2019**
 
-	- **Paper:** 
-	- **Moderator:** Varvara
-	- **Room:** G12-Blue
 
 
 
@@ -37,15 +33,22 @@ Please choose an available slot if you'd like to present a paper!
 -----
 
 ### Upcoming Meeting
+* **Mon 25 Nov 2019**
+
+	- **Paper:** [What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition](https://www.csie.ntu.edu.tw/~yvchen/doc/EMNLP19_GenDef.pdf)
+	- **Moderator:** Varvara
+	- **Room:** G12-Blue
+
+	
+	
+Past Meetings
+--------------- 
 * **Mon 18 Nov 2019**
 
 	- **Paper:** [Hierarchical Transfer Learning for Multi-label Text Classification](https://www.aclweb.org/anthology/P19-1633.pdf)
 	- **Moderator:** Mali
 	- **Room:** G12-Blue
-	
-	
-Past Meetings
---------------- 
+
 * **Mon 11 Nov 2019**
 
 	- **Paper:** Incorporating Priors with Feature Attribution on Text Classification (https://www.aclweb.org/anthology/P19-1631)
