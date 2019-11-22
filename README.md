@@ -35,7 +35,7 @@ Please choose an available slot if you'd like to present a paper!
 ### Upcoming Meeting
 * **Mon 25 Nov 2019**
 
-	- **Paper:** [What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition](https://www.csie.ntu.edu.tw/~yvchen/doc/EMNLP19_GenDef.pdf)
+	- **Paper:** [What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition](https://www.aclweb.org/anthology/D19-1627.pdf)
 	- **Moderator:** Varvara
 	- **Room:** ~~G12-Blue~~ COM-108 - Ada Lovelace Room
 
