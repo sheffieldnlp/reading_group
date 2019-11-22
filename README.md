@@ -37,7 +37,7 @@ Please choose an available slot if you'd like to present a paper!
 
 	- **Paper:** [What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition](https://www.csie.ntu.edu.tw/~yvchen/doc/EMNLP19_GenDef.pdf)
 	- **Moderator:** Varvara
-	- **Room:** COM-108 - Ada Lovelace Room ~~G12-Blue~~
+	- **Room:** ~~G12-Blue~~ COM-108 - Ada Lovelace Room
 
 	
 	
