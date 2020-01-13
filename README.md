@@ -9,30 +9,37 @@ The meetings of the group are informal and no necessary preparation will be requ
 There is also a #readinggroup channel in the NLP group's inofficial Slack channel: https://usfd-nlp.slack.com/messages
 
 A list of past meetings before 2018/19 can be found [here](https://www.sheffield.ac.uk/dcs/research/groups/nlp#tab05).
-<!--	
-* **Fri 06 Dec 2019**
 
-	- ***ACL Review/Feedback session*
-	- **Room:** G12-Blue
-<!--	
-* **Mon 02 Dec 2019**
-
-	- **Paper:** 
-	- **Moderator:** Cancel due to ACL deadline
-	- **Room:** G12-Blue
-<!--	
-
-
-
-
+<---
 Please choose an available slot if you'd like to present a paper!
 --->
-
 
 
 -----
 
 ### Upcoming Meeting
+
+* **Mon 20 Jan 2019**
+	- **Paper:** TBD
+	- **Room:** TBD
+
+Past Meetings
+--------------- 
+
+* **Fri 06 Dec 2019**
+
+	- ***ACL Review/Feedback session*
+	- **Room:** G12-Blue
+	
+* **Mon 02 Dec 2019**
+
+	- **Paper:** 
+	- **Moderator:** Cancel due to ACL deadline
+	- **Room:** G12-Blue
+	
+
+
+
 * **Mon 25 Nov 2019**
 
 	- **Paper:** [What Does This Word Mean? Explaining Contextualized Embeddings with Natural Language Definition](https://www.aclweb.org/anthology/D19-1627.pdf)
@@ -41,8 +48,7 @@ Please choose an available slot if you'd like to present a paper!
 
 	
 	
-Past Meetings
---------------- 
+
 * **Mon 18 Nov 2019**
 
 	- **Paper:** [Hierarchical Transfer Learning for Multi-label Text Classification](https://www.aclweb.org/anthology/P19-1633.pdf)
