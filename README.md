@@ -17,15 +17,34 @@ Please choose an available slot if you'd like to present a paper!
 
 -----
 
+
+
+<!--
+* **Mon 3 Feb 2020**
+
+	- **Paper:**
+	- **Moderator:** Danae
+	- **Room:** G12-Blue
+-->
+
 ### Upcoming Meeting
 
-* **Mon 20 Jan 2019**
+* **Mon 27 Jan 2020**
+
+	- **Paper:**
+	- **Moderator:** Fernando
+	- **Room:** G12-Blue
+
+
+Past Meetings
+--------------- 
+
+* **Mon 20 Jan 2020**
 	- **Paper:** [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
 	- **Moderator:** George
 	- **Room:** G12-Blue
 
-Past Meetings
---------------- 
+
 
 * **Fri 06 Dec 2019**
 
