@@ -20,24 +20,27 @@ Please choose an available slot if you'd like to present a paper!
 
 
 <!--
-* **Mon 3 Feb 2020**
 
-	- **Paper:**
-	- **Moderator:** Danae
-	- **Room:** G12-Blue
 -->
 
 ### Upcoming Meeting
 
-* **Mon 27 Jan 2020**
+* **Mon 3 Feb 2020**
 
-	- **Paper:**
-	- **Moderator:** Fernando
+	- **Paper:** [Affect-Driven Dialog Generation](https://www.aclweb.org/anthology/N19-1374.pdf)
+	- **Moderator:** Danae
 	- **Room:** G12-Blue
+
 
 
 Past Meetings
 --------------- 
+* **Mon 27 Jan 2020**
+
+	- **Paper:** [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
+	- **Moderator:** Fernando
+	- **Room:** G12-Blue
+	
 
 * **Mon 20 Jan 2020**
 	- **Paper:** [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
