@@ -17,10 +17,12 @@ Please choose an available slot if you'd like to present a paper!
 
 -----
 
-
-
 <!--
+* **Mon 10 Feb 2020**
 
+	- **Paper:** [Hubless Nearest Neighbor Search for Bilingual Lexicon Induction](https://www.aclweb.org/anthology/P19-1399/) (ACL 19)
+	- **Moderator:** Xutan
+	- **Room:** G12-Blue
 -->
 
 ### Upcoming Meeting
