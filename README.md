@@ -18,25 +18,28 @@ Please choose an available slot if you'd like to present a paper!
 -----
 
 <!--
-* **Mon 10 Feb 2020**
 
-	- **Paper:** [Hubless Nearest Neighbor Search for Bilingual Lexicon Induction](https://www.aclweb.org/anthology/P19-1399/) (ACL 19)
-	- **Moderator:** Xutan
-	- **Room:** G12-Blue
 -->
 
 ### Upcoming Meeting
 
-* **Mon 3 Feb 2020**
+* **Mon 10 Feb 2020**
 
-	- **Paper:** [Affect-Driven Dialog Generation](https://www.aclweb.org/anthology/N19-1374.pdf)
-	- **Moderator:** Danae
+	- **Paper:** Hubless Nearest Neighbor Search for Bilingual Lexicon Induction (ACL 19) ([paper](https://www.aclweb.org/anthology/P19-1399/) | [code](https://github.com/baidu-research/HNN))
+	- **Moderator:** Xutan
 	- **Room:** G12-Blue
 
 
 
 Past Meetings
 --------------- 
+	
+* **Mon 3 Feb 2020**
+
+	- **Paper:** [Affect-Driven Dialog Generation](https://www.aclweb.org/anthology/N19-1374.pdf)
+	- **Moderator:** Danae
+	- **Room:** G12-Blue
+
 * **Mon 27 Jan 2020**
 
 	- **Paper:** [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
