@@ -23,17 +23,22 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 
-* **Mon 10 Feb 2020**
+* **Mon 17 Feb 2020**
 
-	- **Paper:** Hubless Nearest Neighbor Search for Bilingual Lexicon Induction (ACL 19) ([paper](https://www.aclweb.org/anthology/P19-1399/) | [code](https://github.com/baidu-research/HNN))
-	- **Moderator:** Xutan
+	- **Paper:** [Detecting Customer Complaint Escalation with Recurrent Neural Networks and Manually-Engineered Features](https://www.aclweb.org/anthology/N19-2008.pdf)
+	- **Moderator:** Mali
 	- **Room:** G12-Blue
 
 
 
 Past Meetings
 --------------- 
-	
+* **Mon 10 Feb 2020**
+
+	- **Paper:** Hubless Nearest Neighbor Search for Bilingual Lexicon Induction (ACL 19) ([paper](https://www.aclweb.org/anthology/P19-1399/) | [code](https://github.com/baidu-research/HNN))
+	- **Moderator:** Xutan
+	- **Room:** G12-Blue
+
 * **Mon 3 Feb 2020**
 
 	- **Paper:** [Affect-Driven Dialog Generation](https://www.aclweb.org/anthology/N19-1374.pdf)
