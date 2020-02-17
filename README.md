@@ -22,7 +22,7 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 16 Mar 2020**
 
 	- **Paper:** TBA
-	- **Moderator:** Ruizhe Li
+	- **Moderator:** Ruizhe
 	- **Room:** G12-Blue
 
 * **Mon 9 Mar 2020**
