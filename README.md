@@ -19,6 +19,30 @@ Please choose an available slot if you'd like to present a paper!
 
 <!--
 
+* **Mon 16 Mar 2020**
+
+	- **Paper:** TBA
+	- **Moderator:** Ruizhe Li
+	- **Room:** G12-Blue
+
+* **Mon 9 Mar 2020**
+
+	- **Paper:** Katerina
+	- **Moderator:** TBA
+	- **Room:** G12-Blue
+
+* **Mon 2 Mar 2020**
+
+	- **Paper:** TBA
+	- **Moderator:** TBA
+	- **Room:** G12-Blue
+
+* **Mon 24 Feb 2020**
+
+	- **Paper:** TBA
+	- **Moderator:** George
+	- **Room:** G12-Blue
+
 -->
 
 ### Upcoming Meeting
