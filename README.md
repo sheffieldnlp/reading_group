@@ -36,27 +36,25 @@ Please choose an available slot if you'd like to present a paper!
 	- **Paper:** TBA
 	- **Moderator:** TBA
 	- **Room:** G12-Blue
-
-* **Mon 24 Feb 2020**
-
-	- **Paper:** TBA
-	- **Moderator:** George
-	- **Room:** G12-Blue
-
 -->
 
 ### Upcoming Meeting
+* **Mon 24 Feb 2020**
 
-* **Mon 17 Feb 2020**
-
-	- **Paper:** [Detecting Customer Complaint Escalation with Recurrent Neural Networks and Manually-Engineered Features](https://www.aclweb.org/anthology/N19-2008.pdf)
-	- **Moderator:** Mali
+	- **Paper:** [Interpretable emoji prediction via label-wise attention LSTMs](https://www.aclweb.org/anthology/D18-1508.pdf)
+	- **Moderator:** George
 	- **Room:** G12-Blue
 
 
 
 Past Meetings
 --------------- 
+
+
+* **Mon 17 Feb 2020**
+
+
+
 * **Mon 10 Feb 2020**
 
 	- **Paper:** Hubless Nearest Neighbor Search for Bilingual Lexicon Induction (ACL 19) ([paper](https://www.aclweb.org/anthology/P19-1399/) | [code](https://github.com/baidu-research/HNN))
