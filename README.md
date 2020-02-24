@@ -31,24 +31,26 @@ Please choose an available slot if you'd like to present a paper!
 	- **Moderator:** TBA
 	- **Room:** G12-Blue
 
-* **Mon 2 Mar 2020**
 
-	- **Paper:** TBA
-	- **Moderator:** TBA
-	- **Room:** G12-Blue
 -->
 
 ### Upcoming Meeting
+
+* **Mon 2 Mar 2020**
+
+	- **Paper:** TBA
+	- **Moderator:** Danae
+	- **Room:** G12-Blue
+
+
+Past Meetings
+--------------- 
+
 * **Mon 24 Feb 2020**
 
 	- **Paper:** [Interpretable emoji prediction via label-wise attention LSTMs](https://www.aclweb.org/anthology/D18-1508.pdf)
 	- **Moderator:** George
 	- **Room:** G12-Blue
-
-
-
-Past Meetings
---------------- 
 
 
 * **Mon 17 Feb 2020**
