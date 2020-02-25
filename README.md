@@ -44,7 +44,7 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 2 Mar 2020**
 
-	- **Paper:** TBA
+	- **Paper:** [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 	- **Moderator:** Danae
 	- **Room:** G12-Blue
 
