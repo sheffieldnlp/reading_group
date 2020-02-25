@@ -19,6 +19,12 @@ Please choose an available slot if you'd like to present a paper!
 
 <!--
 
+* **Mon 23 Mar 2020**
+
+	- **Paper:** [Many Faces of Feature Importance: Comparing Built-in and Post-hocFeature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
+	- **Moderator:** George
+	- **Room:** G12-Blue
+
 * **Mon 16 Mar 2020**
 
 	- **Paper:** TBA
