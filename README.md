@@ -19,6 +19,12 @@ Please choose an available slot if you'd like to present a paper!
 
 <!--
 
+* **Mon 30 Mar 2020**
+
+	- **Paper:** [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](https://www.aclweb.org/anthology/D18-1330.pdf)
+	- **Moderator:** Xutan
+	- **Room:** G12-Blue
+
 * **Mon 23 Mar 2020**
 
 	- **Paper:** [Many Faces of Feature Importance: Comparing Built-in and Post-hocFeature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
