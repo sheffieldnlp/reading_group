@@ -31,32 +31,32 @@ Please choose an available slot if you'd like to present a paper!
 	- **Moderator:** George
 	- **Room:** G12-Blue
 
-* **Mon 16 Mar 2020**
-
-	- **Paper:** TBA
-	- **Moderator:** Ruizhe
-	- **Room:** G12-Blue
-
-* **Mon 9 Mar 2020**
-
-	- **Paper:** Katerina
-	- **Moderator:** TBA
-	- **Room:** G12-Blue
-
 
 -->
 
 ### Upcoming Meeting
+
+* **Mon 16 Mar 2020**
+
+	- **Paper:** [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/pdf/1901.05534.pdf)
+	- **Moderator:** Ruizhe
+	- **Room:** G12-Blue
+
+
+Past Meetings
+--------------- 
+
+* **Mon 9 Mar 2020**
+
+	- **Paper:** [BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning]( https://papers.nips.cc/paper/8925-batchbald-efficient-and-diverse-batch-acquisition-for-deep-bayesian-active-learning.pdf)
+	- **Moderator:** Katerina
+	- **Room:** G12-Blue
 
 * **Mon 2 Mar 2020**
 
 	- **Paper:** [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 	- **Moderator:** Danae
 	- **Room:** G12-Blue
-
-
-Past Meetings
---------------- 
 
 * **Mon 24 Feb 2020**
 
