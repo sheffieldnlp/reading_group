@@ -36,7 +36,7 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 
-* **Mon 16 Mar 2020**
+* ~~**Mon 16 Mar 2020**~~ **Now Mon 30 Mar 2020 (due to COVID-19)**
 
 	- **Paper:** [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/pdf/1901.05534.pdf)
 	- **Moderator:** Ruizhe
