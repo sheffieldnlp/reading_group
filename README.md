@@ -25,10 +25,6 @@ Please choose an available slot if you'd like to present a paper!
 	- **Moderator:** Xutan
 	- **Room:** G12-Blue
 
-* **Mon 23 Mar 2020**
-
-	- **Paper:** [Many Faces of Feature Importance: Comparing Built-in and Post-hocFeature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
-	- **Moderator:** George
 	- **Room:** G12-Blue
 
 
@@ -36,15 +32,23 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 
+
+
+* **Mon 6 Apr 2020**
+
+	- **Paper:** [Many Faces of Feature Importance: Comparing Built-in and Post-hocFeature Importance in Text Classification](https://www.aclweb.org/anthology/D19-1046.pdf)
+	- **Moderator:** George
+
+
+Past Meetings
+--------------- 
+
+
 * ~~**Mon 16 Mar 2020**~~ **Now Mon 30 Mar 2020 (due to COVID-19)**
 
 	- **Paper:** [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://arxiv.org/pdf/1901.05534.pdf)
 	- **Moderator:** Ruizhe
 	- **Room:** G12-Blue
-
-
-Past Meetings
---------------- 
 
 * **Mon 9 Mar 2020**
 
