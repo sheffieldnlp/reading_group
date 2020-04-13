@@ -19,7 +19,7 @@ Please choose an available slot if you'd like to present a paper!
 
 <!--
 
-* **Mon 30 Mar 2020**
+* **Mon 20 Apr 2020**
 
 	- **Paper:** [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](https://www.aclweb.org/anthology/D18-1330.pdf)
 	- **Moderator:** Xutan
