@@ -25,16 +25,23 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 ---
-* **Mon 27 Apr 2020**
+* **Mon 04 May 2020**
 
-	- **Paper:** [“Trust me, I have a Ph.D.”: A Propensity Score Analysis on the Halo Effect ofDisclosing One’s Offline Social Status in Online Communities](https://arxiv.org/pdf/2004.00105.pdf) (ICWSM-20)
-	- **Moderator:** Yida
+	- **Paper:** [BLEU might be Guilty but References are not Innocent](https://arxiv.org/pdf/2004.06063.pdf)
+	- **Moderator:** Fernando
 	- **Room:** Google Hangouts
 
 
 
 Past Meetings
 --------------- 
+
+* **Mon 27 Apr 2020**
+
+	- **Paper:** [“Trust me, I have a Ph.D.”: A Propensity Score Analysis on the Halo Effect ofDisclosing One’s Offline Social Status in Online Communities](https://arxiv.org/pdf/2004.00105.pdf) (ICWSM-20)
+	- **Moderator:** Yida
+	- **Room:** Google Hangouts
+
 * **Mon 20 Apr 2020**
 
 	- **Paper:** [How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions](https://www.aclweb.org/anthology/P19-1070/) (ACL'19)
