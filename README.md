@@ -13,11 +13,21 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 <!---
 Please choose an available slot if you'd like to present a paper!
 --->
+* **Mon 18 May 2020**
+
+	- **Paper:** [Learning to Faithfully Rationalize by Construction](https://arxiv.org/abs/2005.00115)
+	- **Moderator:** George
+
+
+
+
 
 
 -----
 
 <!--
+
+
 
 
 
