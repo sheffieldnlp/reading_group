@@ -24,6 +24,15 @@ Please choose an available slot if you'd like to present a paper!
 
 <!--
 
+
+-->
+
+### Upcoming Meeting
+---
+
+
+
+
 * **Mon 18 May 2020**
 
 	- **Paper:** [Learning to Faithfully Rationalize by Construction](https://arxiv.org/abs/2005.00115)
@@ -31,20 +40,14 @@ Please choose an available slot if you'd like to present a paper!
 
 
 
--->
+Past Meetings
+--------------- 
 
-### Upcoming Meeting
----
 * **Mon 11 May 2020**
 
 	- **Paper:** [Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network](https://www.aclweb.org/anthology/P19-1345.pdf).
 	- **Moderator:** Mali
 	- **Room:** Google Hangouts
-
-
-
-Past Meetings
---------------- 
 
 * **Mon 04 May 2020**
 
