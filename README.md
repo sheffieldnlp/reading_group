@@ -41,7 +41,7 @@ Past Meetings
 
 * **Fri 29 May 2020**
 
-	- ***EMNLP Review/Feedback session*
+	- **EMNLP Review/Feedback session**
 
 
 * **Mon 18 May 2020**
