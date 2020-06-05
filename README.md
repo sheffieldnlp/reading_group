@@ -29,11 +29,10 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 ---
+* **Mon 8 June 2020**
 
-
-
-
-
+	- **Paper:** [Analyzing Political Parody in Social Media](https://arxiv.org/abs/2004.13878)
+	- **Moderator:** Danae
 
 Past Meetings
 --------------- 
