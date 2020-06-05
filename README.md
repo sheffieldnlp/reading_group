@@ -33,15 +33,22 @@ Please choose an available slot if you'd like to present a paper!
 
 
 
+
+
+Past Meetings
+--------------- 
+
+
+* **Fri 29 May 2020**
+
+	- ***EMNLP Review/Feedback session*
+
+
 * **Mon 18 May 2020**
 
 	- **Paper:** [Learning to Faithfully Rationalize by Construction](https://arxiv.org/abs/2005.00115)
 	- **Moderator:** George
 
-
-
-Past Meetings
---------------- 
 
 * **Mon 11 May 2020**
 
