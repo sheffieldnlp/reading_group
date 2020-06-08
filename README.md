@@ -41,8 +41,8 @@ Please choose an available slot if you'd like to present a paper!
 
 * **Mon 15 June 2020**
 
-	- **Paper:** [TBA]()
-	- **Moderator:** Fred
+	- **Paper:** [Multimodal Quality Estimation for Machine Translation]()
+	- **Moderator:** Shu Okabe / Fred
 
 
 Past Meetings
