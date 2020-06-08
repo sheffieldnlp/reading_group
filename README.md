@@ -29,14 +29,28 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 ---
+* **Mon 29 June 2020**
+
+	- **Paper:** [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+	- **Moderator:** Peter
+
+* **Mon 22 June 2020**
+
+	- **Paper:** [TBA]()
+	- **Moderator:** Sebastian
+
+* **Mon 15 June 2020**
+
+	- **Paper:** [TBA]()
+	- **Moderator:** Fred
+
+
+Past Meetings
+--------------- 
 * **Mon 8 June 2020**
 
 	- **Paper:** [Analyzing Political Parody in Social Media](https://arxiv.org/abs/2004.13878)
 	- **Moderator:** Danae
-
-Past Meetings
---------------- 
-
 
 * **Fri 29 May 2020**
 
