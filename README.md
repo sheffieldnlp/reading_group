@@ -31,13 +31,13 @@ Please choose an available slot if you'd like to present a paper!
 ---
 * **Mon 29 June 2020**
 
-	- **Paper:** [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
-	- **Moderator:** Peter
+	- **Paper:** [TBA]()
+	- **Moderator:** Sebastian
 
 * **Mon 22 June 2020**
 
-	- **Paper:** [TBA]()
-	- **Moderator:** Sebastian
+	- **Paper:** [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+	- **Moderator:** Peter
 
 * **Mon 15 June 2020**
 
