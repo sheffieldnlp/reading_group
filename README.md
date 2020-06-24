@@ -31,7 +31,7 @@ Please choose an available slot if you'd like to present a paper!
 ---
 * **Mon 29 June 2020**
 
-	- **Paper:** [TBA]()
+	- **Paper:** [Context-aware monolingual repair for neural machine translation](https://www.mendeley.com/catalogue/264b2ffe-6877-3d9b-86d2-ede3bd4caf55/?utm_source=desktop&utm_medium=1.19.4&utm_campaign=open_catalog&userDocumentId=%7B5f02f55a-058b-41d7-95fd-576d293ed801%7D)
 	- **Moderator:** Sebastian
 
 * **Mon 22 June 2020**
