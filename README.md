@@ -29,6 +29,14 @@ Please choose an available slot if you'd like to present a paper!
 
 ### Upcoming Meeting
 ---
+* **Mon 13th July 2020**
+
+	- **Paper:** Latent Space Factorisation and Manipulation via Matrix Subspace Projection
+	- **Moderator:** Ruizhe
+
+
+Past Meetings
+--------------- 
 * **Mon 29 June 2020**
 
 	- **Paper:** [Context-aware monolingual repair for neural machine translation](https://www.mendeley.com/catalogue/264b2ffe-6877-3d9b-86d2-ede3bd4caf55/?utm_source=desktop&utm_medium=1.19.4&utm_campaign=open_catalog&userDocumentId=%7B5f02f55a-058b-41d7-95fd-576d293ed801%7D)
@@ -43,10 +51,7 @@ Please choose an available slot if you'd like to present a paper!
 
 	- **Paper:** [Multimodal Quality Estimation for Machine Translation]()
 	- **Moderator:** Shu Okabe / Fred
-
-
-Past Meetings
---------------- 
+	
 * **Mon 8 June 2020**
 
 	- **Paper:** [Analyzing Political Parody in Social Media](https://arxiv.org/abs/2004.13878)
