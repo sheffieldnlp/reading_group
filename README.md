@@ -31,7 +31,7 @@ Please choose an available slot if you'd like to present a paper!
 ---
 * **Mon 13th July 2020**
 
-	- **Paper:** Latent Space Factorisation and Manipulation via Matrix Subspace Projection
+	- **Paper:** [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](https://xiao.ac/_data/msp/MSP-icml2020-near-camera-ready.pdf)
 	- **Moderator:** Ruizhe
 
 
