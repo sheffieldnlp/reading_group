@@ -14,12 +14,6 @@ A list of past meetings before 2018/19 can be found [here](https://www.sheffield
 Please choose an available slot if you'd like to present a paper!
 --->
 
-
-
-
-
-
-
 -----
 
 <!--
@@ -27,16 +21,21 @@ Please choose an available slot if you'd like to present a paper!
 
 -->
 
-### Upcoming Meeting
+Upcoming Meeting
 ---
+
+* **Mon 20th July 2020**
+
+	- **Paper:** [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+	- **Moderator:** Xutan
+
+Past Meetings
+--------------- 
 * **Mon 13th July 2020**
 
 	- **Paper:** [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](https://xiao.ac/_data/msp/MSP-icml2020-near-camera-ready.pdf)
 	- **Moderator:** Ruizhe
-
-
-Past Meetings
---------------- 
+	
 * **Mon 29 June 2020**
 
 	- **Paper:** [Context-aware monolingual repair for neural machine translation](https://www.mendeley.com/catalogue/264b2ffe-6877-3d9b-86d2-ede3bd4caf55/?utm_source=desktop&utm_medium=1.19.4&utm_campaign=open_catalog&userDocumentId=%7B5f02f55a-058b-41d7-95fd-576d293ed801%7D)
