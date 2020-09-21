@@ -24,13 +24,22 @@ Please choose an available slot if you'd like to present a paper!
 Upcoming Meeting
 ---
 
+* **Mon 28th July 2020**
+
+
+Future Meetings
+---
+
+
+
+Past Meetings
+---------------
+
 * **Mon 20th July 2020**
 
 	- **Paper:** [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 	- **Moderator:** Xutan
 
-Past Meetings
---------------- 
 * **Mon 13th July 2020**
 
 	- **Paper:** [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](https://xiao.ac/_data/msp/MSP-icml2020-near-camera-ready.pdf)
