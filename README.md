@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 Upcoming Meeting
 ---
 
-* **Mon 28th July 2020**
+* **Mon 28th Sep 2020**
 
 
 Future Meetings
