@@ -25,6 +25,9 @@ Upcoming Meeting
 ---
 
 * **Mon 28th Sep 2020**
+	- **Paper:** [Towards Faithfully Interpretable NLP Systems](https://arxiv.org/pdf/2004.03685.pdf)
+	- **Moderator:** George
+
 
 
 Future Meetings
