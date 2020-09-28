@@ -38,6 +38,10 @@ Future Meetings
 	- **Moderator:** Mali
 
 
+* **Mon 12th Oct 2020**
+	- **Paper:** [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/)
+	- **Moderator:** Danae
+
 
 Past Meetings
 ---------------
