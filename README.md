@@ -33,6 +33,10 @@ Upcoming Meeting
 Future Meetings
 ---
 
+* **Mon 5th Oct 2020**
+	- **Paper:** [Joint Modelling of Emotion and Abusive Language Detection](https://arxiv.org/pdf/2005.14028.pdf)
+	- **Moderator:** Mali
+
 
 
 Past Meetings
