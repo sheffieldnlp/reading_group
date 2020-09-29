@@ -42,6 +42,10 @@ Future Meetings
 	- **Moderator:** Danae
 
 
+* **Mon 26th Oct 2020**
+	- **Paper:** TBD (will update soon)
+	- **Moderator:** Wenzhe 
+
 Past Meetings
 ---------------
 
