@@ -23,19 +23,22 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Mon 12th Oct 2020**
-	- **Paper:** [Joint Modelling of Emotion and Abusive Language Detection](https://arxiv.org/pdf/2005.14028.pdf)
-	- **Moderator:** Mali
-
-Future Meetings
----
 * **Mon 19th Oct 2020**
 	- **Paper:** [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/)
 	- **Moderator:** Danae
+**Future Meetings**
+---
+* **Mon 26th Oct 2020**
+	- **Paper:** TBA
+	- **Moderator:** Katerina
 
 
 Past Meetings
 ---------------
+* **Mon 12th Oct 2020**
+	- **Paper:** [Joint Modelling of Emotion and Abusive Language Detection](https://arxiv.org/pdf/2005.14028.pdf)
+	- **Moderator:** Mali
+
 * **Mon 5th Oct 2020**
 	- EACL Paper Review Session
 
