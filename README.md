@@ -26,6 +26,7 @@ Upcoming Meeting
 * **Mon 19th Oct 2020**
 	- **Paper:** [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/)
 	- **Moderator:** Danae
+	
 **Future Meetings**
 ---
 * **Mon 26th Oct 2020**
