@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 Upcoming Meeting
 ---
 * **Mon 19th Oct 2020**
-	- **Paper:** [Understanding Advertisements with BERT](https://www.aclweb.org/anthology/2020.acl-main.674/)
+	- **Paper:** [Multi-view Models for Political Ideology Detection of News Articles](https://www.aclweb.org/anthology/D18-1388/)
 	- **Moderator:** Danae
 	
 **Future Meetings**
