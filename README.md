@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 Upcoming Meeting
 ---
 * **Mon 19th Oct 2020**
-	- **Paper:** [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context (https://www.aclweb.org/anthology/2020.acl-main.308.pdf)
+	- **Paper:** [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://www.aclweb.org/anthology/2020.acl-main.308.pdf)
 	- **Moderator:** Danae
 	
 **Future Meetings**
