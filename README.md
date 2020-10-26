@@ -23,19 +23,21 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Mon 19th Oct 2020**
-	- **Paper:** [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://www.aclweb.org/anthology/2020.acl-main.308.pdf)
-	- **Moderator:** Danae
+* **Mon 26th Oct 2020**
+	- **Paper:** [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535)
+	- **Moderator:** Katerina
 	
 **Future Meetings**
 ---
-* **Mon 26th Oct 2020**
-	- **Paper:** TBA
-	- **Moderator:** Katerina
+ NaN
 
 
 Past Meetings
 ---------------
+* **Mon 19th Oct 2020**
+	- **Paper:** [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://www.aclweb.org/anthology/2020.acl-main.308.pdf)
+	- **Moderator:** Danae
+
 * **Mon 12th Oct 2020**
 	- **Paper:** [Joint Modelling of Emotion and Abusive Language Detection](https://arxiv.org/pdf/2005.14028.pdf)
 	- **Moderator:** Mali
