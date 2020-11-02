@@ -23,17 +23,23 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Mon 26th Oct 2020**
-	- **Paper:** [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535)
-	- **Moderator:** Katerina
+* **Mon 2th Nov 2020**
+	- **Paper:** [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News](https://arxiv.org/pdf/2010.03159.pdf)
+	- **Moderator:** Yida Mu
 	
 **Future Meetings**
 ---
- NaN
+* **Mon 9th Nov 2020**
+	- **Paper:** TBA
+	- **Moderator:** Hardy
 
 
 Past Meetings
 ---------------
+* **Mon 26th Oct 2020**
+	- **Paper:** [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535)
+	- **Moderator:** Katerina
+	
 * **Mon 19th Oct 2020**
 	- **Paper:** [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://www.aclweb.org/anthology/2020.acl-main.308.pdf)
 	- **Moderator:** Danae
