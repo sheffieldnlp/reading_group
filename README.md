@@ -33,6 +33,9 @@ Upcoming Meeting
 	- **Paper:** TBA
 	- **Moderator:** Hardy
 
+* **Mon 16th Nov 2020**
+	- **Paper:** [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/pdf/2004.12393.pdf)
+	- **Moderator:** Wenzhe 
 
 Past Meetings
 ---------------
