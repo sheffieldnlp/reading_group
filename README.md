@@ -23,9 +23,7 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Mon 2th Nov 2020**
-	- **Paper:** [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News](https://arxiv.org/pdf/2010.03159.pdf)
-	- **Moderator:** Yida Mu
+
 	
 **Future Meetings**
 ---
@@ -40,6 +38,10 @@ Past Meetings
 * **Mon 9th Nov 2020**
 	- **Paper:** [Self-Attention Guided Copy Mechanism for Abstractive Summarization](https://www.aclweb.org/anthology/2020.acl-main.125.pdf)
 	- **Moderator:** Hardy
+
+* **Mon 2th Nov 2020**
+	- **Paper:** [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News](https://arxiv.org/pdf/2010.03159.pdf)
+	- **Moderator:** Yida Mu
 	
 * **Mon 26th Oct 2020**
 	- **Paper:** [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535)
@@ -55,7 +57,7 @@ Past Meetings
 
 * **Mon 5th Oct 2020**
 	- EACL Paper Review Session
-
+	
 * **Mon 28th Sep 2020**
 	- **Paper:** [Towards Faithfully Interpretable NLP Systems](https://arxiv.org/pdf/2004.03685.pdf)
 	- **Moderator:** George
