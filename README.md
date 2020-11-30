@@ -33,13 +33,13 @@ Upcoming Meeting
 
 Past Meetings
 ---------------
-* **Mon 9th Nov 2020**
-	- **Paper:** [Self-Attention Guided Copy Mechanism for Abstractive Summarization](https://www.aclweb.org/anthology/2020.acl-main.125.pdf)
-	- **Moderator:** Hardy
-
 * **Mon 16th Nov 2020**
 	- **Paper:** [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/pdf/2004.12393.pdf)
 	- **Moderator:** Wenzhe 
+	
+* **Mon 9th Nov 2020**
+	- **Paper:** [Self-Attention Guided Copy Mechanism for Abstractive Summarization](https://www.aclweb.org/anthology/2020.acl-main.125.pdf)
+	- **Moderator:** Hardy
 	
 * **Mon 26th Oct 2020**
 	- **Paper:** [Cold-start Active Learning through Self-supervised Language Modeling](https://arxiv.org/abs/2010.09535)
