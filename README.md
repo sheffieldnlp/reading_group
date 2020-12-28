@@ -23,7 +23,9 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-
+* **Mon 16th Nov 2020**
+	- **Paper:** [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263/)
+	- **Moderator:** Wenzhe 
 	
 **Future Meetings**
 ---
