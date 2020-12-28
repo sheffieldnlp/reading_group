@@ -25,7 +25,7 @@ Upcoming Meeting
 ---
 * **Mon 4th Jan 2021**
 	- **Paper:** [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263/)
-	- **Moderator:** Wenzhe 
+	- **Moderator:** George 
 	
 **Future Meetings**
 ---
