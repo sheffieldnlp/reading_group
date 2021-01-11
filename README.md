@@ -23,9 +23,9 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Mon 4th Jan 2021**
-	- **Paper:** [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263/)
-	- **Moderator:** George 
+* **Mon 11th Jan 2021**
+	- **Paper:** [Unsupervised Data Augmentation for Consistency Training](https://openreview.net/forum?id=ByeL1R4FvS)
+	- **Moderator:** Katerina 
 	
 **Future Meetings**
 ---
@@ -33,6 +33,11 @@ Upcoming Meeting
 
 Past Meetings
 ---------------
+
+* **Mon 4th Jan 2021**
+	- **Paper:** [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263/)
+	- **Moderator:** George 
+
 * **Mon 16th Nov 2020**
 	- **Paper:** [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/pdf/2004.12393.pdf)
 	- **Moderator:** Wenzhe 
