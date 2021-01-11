@@ -29,7 +29,9 @@ Upcoming Meeting
 	
 **Future Meetings**
 ---
-
+* **Mon 18th Jan 2021**
+	- **Paper:** TBA
+	- **Moderator:** Mali
 
 Past Meetings
 ---------------
