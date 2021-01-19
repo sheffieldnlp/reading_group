@@ -23,7 +23,7 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
-* **Fri 29 Jan 2021**
+* **Fri 29th Jan 2021**
 
 	- **ACL Review/Feedback session**
 	
