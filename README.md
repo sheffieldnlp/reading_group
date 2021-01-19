@@ -23,19 +23,24 @@ Please choose an available slot if you'd like to present a paper!
 
 Upcoming Meeting
 ---
+* **Fri 29 Jan 2021**
+
+	- **ACL Review/Feedback session**
+	
+**Future Meetings**
+---
+
+
+Past Meetings
+---------------
+* **Mon 18th Jan 2021**
+	- **Paper:** [Affective and Contextual Embedding for Sarcasm Detection](https://www.aclweb.org/anthology/2020.coling-main.20/)
+	- **Moderator:** Mali
+	
 * **Mon 11th Jan 2021**
 	- **Paper:** [Unsupervised Data Augmentation for Consistency Training](https://openreview.net/forum?id=ByeL1R4FvS)
 	- **Moderator:** Katerina 
 	
-**Future Meetings**
----
-* **Mon 18th Jan 2021**
-	- **Paper:** TBA
-	- **Moderator:** Mali
-
-Past Meetings
----------------
-
 * **Mon 4th Jan 2021**
 	- **Paper:** [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263/)
 	- **Moderator:** George 
