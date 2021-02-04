@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 Upcoming Meeting
 ---
 * **Mon 8th Feb 2021**
-	- **Paper:** TBA
+	- **Paper:** [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings](https://www.aclweb.org/anthology/2020.emnlp-main.268/)
 	- **Moderator:** Danae
 	
 **Future Meetings**
