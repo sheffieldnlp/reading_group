@@ -21,18 +21,21 @@ Please choose an available slot if you'd like to present a paper!
 
 -->
 
-Upcoming Meeting
+**Upcoming Meeting(s)**
 ---
-* **Mon 8th Feb 2021**
-	- **Paper:** [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings](https://www.aclweb.org/anthology/2020.emnlp-main.268/)
-	- **Moderator:** Danae
-	
-**Future Meetings**
----
+* **Mon 22nd Feb 2021**
+	- **Paper:** [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) *(AAAI'21 Best Paper)*
+	- **Moderator:** Xutan
 
 
 Past Meetings
 ---------------
+* **Mon 8th Feb 2021**
+	- **Paper:** [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings](https://www.aclweb.org/anthology/2020.emnlp-main.268/)
+	- **Moderator:** Danae
+	
+
+
 * **Fri 29th Jan 2021**
 
 	- **ACL Review/Feedback session**
