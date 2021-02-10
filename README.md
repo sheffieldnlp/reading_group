@@ -23,6 +23,10 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
+* **Mon 1st March 2021**
+	- **Paper:** TBD*
+	- **Moderator:** Yida Mu
+
 * **Mon 22nd Feb 2021**
 	- **Paper:** [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) *(AAAI'21 Best Paper)*
 	- **Moderator:** Xutan
