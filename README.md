@@ -52,7 +52,7 @@ Past Meetings
 	- **Moderator:** George 
 
 * **Mon 16th Nov 2020**
-	- **Paper:** [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/pdf/2004.12393.pdf)
+	- **Paper:** [Heterogeneous Graph Neural Networks for Extractive Document Summarization](https://arxiv.org/pdf/2004.12393.pdf)[Slide](https://docs.google.com/presentation/d/1SlaqNVTvOorKmp3a6Zsd7OpDLiUJVFtCG48szc-rOV0/edit?usp=sharingv)
 	- **Moderator:** Wenzhe 
 	
 * **Mon 9th Nov 2020**
