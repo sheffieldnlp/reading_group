@@ -23,6 +23,11 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
+* **Mon 8th March 2021**
+	- **Paper:** TBD*
+	- **Moderator:** Ruizhe Li
+
+
 * **Mon 1st March 2021**
 	- **Paper:** TBD*
 	- **Moderator:** Yida Mu
