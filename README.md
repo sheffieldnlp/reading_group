@@ -33,7 +33,7 @@ Please choose an available slot if you'd like to present a paper!
 
 
 * **Mon 1st March 2021**
-	- **Paper:** TBD*
+	- **Paper:** [CogLTX: Applying BERT to Long Texts](https://keg.cs.tsinghua.edu.cn/jietang/publications/NIPS20-Ding-et-al-CogLTX.pdf) *(NeurIPS'20)*
 	- **Moderator:** Yida Mu
 
 * **Mon 22nd Feb 2021**
