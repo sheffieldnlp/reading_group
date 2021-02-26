@@ -23,6 +23,10 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
+* **Mon 15th March 2021**
+	- **Paper:** TBD*
+	- **Moderator:** George
+
 * **Mon 8th March 2021**
 	- **Paper:** TBD*
 	- **Moderator:** Ruizhe Li
