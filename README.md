@@ -28,7 +28,7 @@ Please choose an available slot if you'd like to present a paper!
 	- **Moderator:** George
 
 * **Mon 8th March 2021**
-	- **Paper:** TBD*
+	- **Paper:** [Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs](https://www.aclweb.org/anthology/2020.acl-main.184.pdf)
 	- **Moderator:** Ruizhe Li
 
 
