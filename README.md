@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---
 * **Mon 15th March 2021**
-	- **Paper:** TBD*
+	- **Paper:** [LAMBDANETWORKS: MODELINGLONG-RANGEINTERACTIONSWITHOUTATTENTION](https://openreview.net/pdf?id=xTJEN-ggl1b)
 	- **Moderator:** George
 
 * **Mon 8th March 2021**
