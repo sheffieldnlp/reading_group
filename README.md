@@ -46,7 +46,7 @@ Past Meetings
 * **Mon 22nd Feb 2021**
 	- **Paper:** [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) *(AAAI'21 Best Paper)*
 	- **Moderator:** Xutan
-	- 
+	
 * **Mon 8th Feb 2021**
 	- **Paper:** [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings](https://www.aclweb.org/anthology/2020.emnlp-main.268/)
 	- **Moderator:** Danae
