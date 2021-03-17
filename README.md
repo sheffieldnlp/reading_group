@@ -23,6 +23,13 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
+* **Mon 22nd March 2021**
+	- **Paper:** [Summarising Historical Text in Modern Languages](https://arxiv.org/abs/2101.10759) *(EACL'21)*
+	- **Moderator:** Xutan
+
+
+Past Meetings
+---------------
 * **Mon 15th March 2021**
 	- **Paper:** [LAMBDA NETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION](https://openreview.net/pdf?id=xTJEN-ggl1b)
 	- **Moderator:** George
@@ -39,16 +46,11 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 22nd Feb 2021**
 	- **Paper:** [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://arxiv.org/pdf/2012.07436.pdf) *(AAAI'21 Best Paper)*
 	- **Moderator:** Xutan
-
-
-Past Meetings
----------------
+	- 
 * **Mon 8th Feb 2021**
 	- **Paper:** [Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings](https://www.aclweb.org/anthology/2020.emnlp-main.268/)
 	- **Moderator:** Danae
 	
-
-
 * **Fri 29th Jan 2021**
 
 	- **ACL Review/Feedback session**
