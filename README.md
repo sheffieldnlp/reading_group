@@ -29,7 +29,7 @@ Please choose an available slot if you'd like to present a paper!
 	
 * **Mon 21st June 2021**
 	- **Paper:** TBA
-	- **Moderator:** TBA
+	- **Moderator:** Mali
 	
 * **Mon 14th June 2021**
 	- **Paper:** TBA
