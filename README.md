@@ -23,6 +23,10 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
+* **Mon 5th July 2021**
+	- **Paper:** TBA
+	- **Moderator:** Wenzhe
+	- 
 * **Mon 28th June 2021**
 	- **Paper:** TBA
 	- **Moderator:** Yida M
