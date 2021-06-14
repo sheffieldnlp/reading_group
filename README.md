@@ -31,17 +31,18 @@ Please choose an available slot if you'd like to present a paper!
 	- **Paper:** TBA
 	- **Moderator:** Mali
 	
-* **Mon 14th June 2021**
-	- **Paper:** TBA
-	- **Moderator:** Katerina
-	
-* **Mon 7th June 2021**
-	- **Paper:** TBA
-	- **Moderator:** TBA
+
 	
 
 Past Meetings
 ---------------
+* **Mon 14th June 2021**
+	- **Paper:** [Learning The Difference That Makes A Difference With Counterfactually-Augmented Data](https://openreview.net/forum?id=Sklgs0NFvr) *(ICLR'20)*
+	- **Moderator:** Katerina
+	
+* **Mon 7th June 2021**
+	- **Paper:** -
+	- **Moderator:** -
 * **Mon 26th April 2021**
 	- **Paper:** [Estimating predictive uncertainty for rumour verification models](https://www.aclweb.org/anthology/2020.acl-main.623.pdf) *(ACL'20)*
 	- **Moderator:** Wenzhe
