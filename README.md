@@ -26,13 +26,7 @@ Please choose an available slot if you'd like to present a paper!
 * **Mon 28th June 2021**
 	- **Paper:** TBA
 	- **Moderator:** Yida M
-	
-* **Mon 21st June 2021**
-	- **Paper:** TBA
-	- **Moderator:** Mali
-	
-
-	
+		
 
 Past Meetings
 ---------------
