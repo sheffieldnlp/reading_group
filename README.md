@@ -36,6 +36,10 @@ Please choose an available slot if you'd like to present a paper!
 
 Past Meetings
 ---------------
+* **Mon 21st June 2021**
+	- **Paper:** [Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa](https://www.aclweb.org/anthology/2021.naacl-main.146/) *(NAACL'21)*
+	- **Moderator:** Mali
+	- 
 * **Mon 14th June 2021**
 	- **Paper:** [Learning The Difference That Makes A Difference With Counterfactually-Augmented Data](https://openreview.net/forum?id=Sklgs0NFvr) *(ICLR'20)*
 	- **Moderator:** Katerina
