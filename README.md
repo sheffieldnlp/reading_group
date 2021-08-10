@@ -23,13 +23,17 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---
-* **Mon 28th June 2021**
-	- **Paper:** TBA
-	- **Moderator:** Yida M
+* **Mon 16th Aug 2021**
+	- **Paper:** [From characters to words: the turning point of BPE merges](https://aclanthology.org/2021.eacl-main.302.pdf) *(EACL'21)*
+	- **Moderator:** Xutan
 		
 
 Past Meetings
 ---------------
+* **Mon 28th June 2021**
+	- **Paper:** [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/pdf?id=xfmSoxdxFCG) *(ICLR'21)*
+	- **Moderator:** Yida M
+	
 * **Mon 21st June 2021**
 	- **Paper:** [Does syntax matter? A strong baseline for Aspect-based Sentiment Analysis with RoBERTa](https://www.aclweb.org/anthology/2021.naacl-main.146/) *(NAACL'21)*
 	- **Moderator:** Mali
