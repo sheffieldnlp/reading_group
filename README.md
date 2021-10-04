@@ -22,14 +22,46 @@ Please choose an available slot if you'd like to present a paper!
 -->
 
 **Upcoming Meeting(s)**
----
-* **Mon 16th Aug 2021**
-	- **Paper:** [From characters to words: the turning point of BPE merges](https://aclanthology.org/2021.eacl-main.302.pdf) *(EACL'21)*
-	- **Moderator:** Xutan
-		
+---------------
+* **Mon 11th Oct 2021**
+	- **Paper:** TBD
+	- **Moderator:** George
+
+* **Mon 18th Oct 2021**
+	- **Paper:** TBD
+	- **Moderator:** Yida
+
+* **Mon 25th Oct 2021**
+	- **Paper:** TBD
+	- **Moderator:** Robert
+
+* **Mon 01st Nov 2021**
+	- **Paper:** TBD
+	- **Moderator:** Zee
+
+* **Mon 08th Nov 2021**
+	- Review Session for ACL Submissions
 
 Past Meetings
 ---------------
+
+* **Mon 04th Oct 2021**
+	- **Paper:** [Predicting emergent linguistic compositions through time: Syntactic frame extension via multimodal chaining
+](https://arxiv.org/abs/2109.04652) *(EMNLP'21)*
+	- **Moderator:** Danae
+
+* **Mon 27th Sep 2021**
+	- **Paper:** [Does Pretraining for Summarization Require Knowledge Transfer?](https://arxiv.org/abs/2109.04953) *(EMNLP'21 - Findings)*
+	- **Moderator:** Katerina
+
+* **Mon 20th Sep 2021**
+	- **Paper:** [Paragraph-level Simplification of Medical Texts](https://aclanthology.org/2021.naacl-main.395/) *(NAACL'21)*
+	- **Moderator:** Fernando
+
+* **Mon 16th Aug 2021**
+	- **Paper:** [From characters to words: the turning point of BPE merges](https://aclanthology.org/2021.eacl-main.302.pdf) *(EACL'21)*
+	- **Moderator:** Xutan
+
 * **Mon 28th June 2021**
 	- **Paper:** [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/pdf?id=xfmSoxdxFCG) *(ICLR'21)*
 	- **Moderator:** Yida M
@@ -45,6 +77,7 @@ Past Meetings
 * **Mon 7th June 2021**
 	- **Paper:** -
 	- **Moderator:** -
+	
 * **Mon 26th April 2021**
 	- **Paper:** [Estimating predictive uncertainty for rumour verification models](https://www.aclweb.org/anthology/2020.acl-main.623.pdf) *(ACL'20)*
 	- **Moderator:** Wenzhe
