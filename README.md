@@ -2,7 +2,7 @@
 
 The target audience is all the members of the NLP group and other possible interested participants.
 
-The meeting takes place weekly during term for one hour usually on **Mondays, 14:00-15:00pm**. See below a list of the upcoming and past meetings.
+The meeting takes place weekly during term for one hour usually on **Mondays, 14:00-15:00 UK Time**. See below a list of the upcoming and past meetings.
 
 The meetings of the group are informal and no necessary preparation will be required with the exception of the moderator reading the current paper and the rest having at least a brief overview of it.
 
