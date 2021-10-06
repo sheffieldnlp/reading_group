@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 * **Mon 11th Oct 2021**
-	- **Paper:** TBD
+	- **Paper:** [Debugging Tests for Model Explanations](https://papers.nips.cc/paper/2020/file/075b051ec3d22dac7b33f788da631fd4-Paper.pdf)
 	- **Moderator:** George
 
 * **Mon 18th Oct 2021**
