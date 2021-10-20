@@ -24,10 +24,6 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 18th Oct 2021**
-	- **Paper:** [The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity](https://aclanthology.org/2021.acl-long.544/) *(ACL'21)*
-	- **Moderator:** Yida
-
 * **Mon 25th Oct 2021**
 	- **Paper:** TBD
 	- **Moderator:** Robert
@@ -41,6 +37,10 @@ Please choose an available slot if you'd like to present a paper!
 
 Past Meetings
 ---------------
+
+* **Mon 18th Oct 2021**
+	- **Paper:** [The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity](https://aclanthology.org/2021.acl-long.544/) *(ACL'21)*
+	- **Moderator:** Yida
 
 * **Mon 11th Oct 2021**
 	- **Paper:** [Debugging Tests for Model Explanations](https://papers.nips.cc/paper/2020/file/075b051ec3d22dac7b33f788da631fd4-Paper.pdf)
