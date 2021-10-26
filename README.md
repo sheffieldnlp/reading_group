@@ -24,10 +24,6 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 25th Oct 2021**
-	- **Paper:** TBD
-	- **Moderator:** Robert
-
 * **Mon 01st Nov 2021**
 	- **Paper:** TBD
 	- **Moderator:** Zee
