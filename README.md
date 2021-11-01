@@ -24,12 +24,27 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 01st Nov 2021**
-	- **Paper:** TBD
-	- **Moderator:** Zee
-
 * **Mon 08th Nov 2021**
 	- Review Session for ACL Submissions
+
+* **Mon 15th Nov 2021**
+	- ACL Deadline
+
+* **Mon 22th Nov 2021**
+	- **Paper:** TBD
+	- **Moderator:** Xutan
+
+* **Mon 29th Nov 2021**
+	- **Paper:** TBD
+	- **Moderator:** Dylan
+
+* **Mon 06th Dec 2021**
+	- **Paper:** TBD
+	- **Moderator:** Zeerak
+
+* **Mon 13th Dec 2021**
+	- **Paper:** TBD
+	- **Moderator:** TBD
 
 Past Meetings
 ---------------
