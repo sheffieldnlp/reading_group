@@ -24,14 +24,8 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 08th Nov 2021**
-	- Review Session for ACL Submissions
-
-* **Mon 15th Nov 2021**
-	- ACL Deadline
-
-* **Mon 22th Nov 2021**
-	- **Paper:** TBD
+* **Mon 22th Nov 2021** ![Classical](https://img.shields.io/badge/Classical-Old%20NLP--relevant%20papers-red)
+	- **Paper:** [ Structure Mapping in Analogy and Similarity](https://groups.psych.northwestern.edu/gentner/papers/GentnerMarkman97.pdf) *(American Psychologist 1997)*
 	- **Moderator:** Xutan
 
 * **Mon 29th Nov 2021**
@@ -48,6 +42,13 @@ Please choose an available slot if you'd like to present a paper!
 
 Past Meetings
 ---------------
+
+
+* **Mon 08th Nov 2021**
+	- Review Session for ACL Submissions
+
+* **Mon 15th Nov 2021**
+	- ACL Deadline
 
 * **Mon 18th Oct 2021**
 	- **Paper:** [The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity](https://aclanthology.org/2021.acl-long.544/) *(ACL'21)*
