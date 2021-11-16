@@ -24,7 +24,7 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 22th Nov 2021** ![Classical](https://img.shields.io/badge/Classical-Old%20NLP--relevant%20papers-red)
+* **Mon 22nd Nov 2021** ![Classical](https://img.shields.io/badge/Classical-Old%20NLP--relevant%20papers-red)
 	- **Paper:** [ Structure Mapping in Analogy and Similarity](https://groups.psych.northwestern.edu/gentner/papers/GentnerMarkman97.pdf) *(American Psychologist 1997)*
 	- **Moderator:** Xutan
 
