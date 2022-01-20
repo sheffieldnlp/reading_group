@@ -24,25 +24,27 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 22nd Nov 2021** ![Classic](https://img.shields.io/badge/Classic-Old%20NLP--relevant%20papers-red)
-	- **Paper:** [ Structure Mapping in Analogy and Similarity](https://groups.psych.northwestern.edu/gentner/papers/GentnerMarkman97.pdf) *(American Psychologist 1997)*
+* **Mon 24th Jan 2022**
+	- **Paper:** [A Survey on Dialogue Summarization: Recent Advances and New Frontiers](https://arxiv.org/abs/2107.03175)
+	- **Moderator:** Guanyu Huang
+
+* **Mon 31st Jan 2022**
+	- **Paper:** [Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)
 	- **Moderator:** Xutan
-
-* **Mon 29th Nov 2021**
-	- **Paper:** TBD
-	- **Moderator:** Dylan
-
-* **Mon 06th Dec 2021**
-	- **Paper:** TBD
-	- **Moderator:** Zeerak
-
-* **Mon 13th Dec 2021**
-	- **Paper:** TBD
-	- **Moderator:** TBD
 
 Past Meetings
 ---------------
+* **Mon 06th Dec 2021**
+	- **Paper:** 
+	- **Moderator:** Zeerak
+	- 
+* **Mon 29th Nov 2021**
+	- **Paper:** 
+	- **Moderator:** Dylan
 
+* **Mon 22nd Nov 2021** ![Classic](https://img.shields.io/badge/Classic-Old%20NLP--relevant%20papers-red)
+	- **Paper:** [ Structure Mapping in Analogy and Similarity](https://groups.psych.northwestern.edu/gentner/papers/GentnerMarkman97.pdf) *(American Psychologist 1997)*
+	- **Moderator:** Xutan
 
 * **Mon 08th Nov 2021**
 	- Review Session for ACL Submissions
