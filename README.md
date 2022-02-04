@@ -24,16 +24,21 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 24th Jan 2022**
-	- **Paper:** [A Survey on Dialogue Summarization: Recent Advances and New Frontiers](https://arxiv.org/abs/2107.03175)
-	- **Moderator:** Guanyu Huang
+* **Mon 07th Feb 2022**
+	- **Paper:** [Structurizing Misinformation Stories via Rationalizing Fact-Checks](https://aclanthology.org/2021.acl-long.51/)
+	- **Moderator:** Cass Zhao
 
+
+Past Meetings
+---------------
 * **Mon 31st Jan 2022**
 	- **Paper:** [Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)
 	- **Moderator:** Xutan
 
-Past Meetings
----------------
+* **Mon 24th Jan 2022**
+	- **Paper:** [A Survey on Dialogue Summarization: Recent Advances and New Frontiers](https://arxiv.org/abs/2107.03175)
+	- **Moderator:** Guanyu Huang
+
 * **Mon 06th Dec 2021**
 	- **Paper:** 
 	- **Moderator:** Zeerak
