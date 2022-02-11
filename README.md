@@ -24,13 +24,17 @@ Please choose an available slot if you'd like to present a paper!
 **Upcoming Meeting(s)**
 ---------------
 
-* **Mon 07th Feb 2022**
-	- **Paper:** [Structurizing Misinformation Stories via Rationalizing Fact-Checks](https://aclanthology.org/2021.acl-long.51/)
-	- **Moderator:** Cass Zhao
+* **Mon 14th Feb 2022**
+	- **Paper:** [ProFormer: Towards On-Device LSH Projection Based Transformers](https://aclanthology.org/2021.eacl-main.246.pdf)
+	- **Moderator:** Huiyin
 
 
 Past Meetings
 ---------------
+* **Mon 07th Feb 2022**
+	- **Paper:** [Structurizing Misinformation Stories via Rationalizing Fact-Checks](https://aclanthology.org/2021.acl-long.51/)
+	- **Moderator:** Cass Zhao
+
 * **Mon 31st Jan 2022**
 	- **Paper:** [Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)
 	- **Moderator:** Xutan
