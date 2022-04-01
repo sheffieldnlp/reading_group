@@ -23,14 +23,34 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---------------
+* **Mon 7th Mar 2022**
+	- **Paper:** [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5/)
+	- **Moderator:** Dylan RS Phelps
+
+
+
+Past Meetings
+---------------
+* **Mon 7th Mar 2022**
+	- **Paper:** [I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews](https://arxiv.org/pdf/2101.00403.pdf)
+	- **Moderator:** Mali Jin
+
+* **Mon 7th Mar 2022**
+	- **Paper:** [Superbizarre Is Not Superb: Derivational Morphology Improves BERT's Interpretation of Complex Words](https://arxiv.org/pdf/2101.00403.pdf)
+	- **Moderator:** Edward Gow-Smith
+
+* **Mon 28th Feb 2022**
+	- **Paper:** [Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://aclanthology.org/2020.emnlp-main.724.pdf)
+	- **Moderator:** Danae Sanchez Villegas
+
+* **Mon 21st Feb 2022**
+	- **Paper:** [Finetuned Language Models Are Zero-Shot Learners](https://openreview.net/forum?id=gEZrGCozdqR)
+	- **Moderator:** Katerina Margatina
 
 * **Mon 14th Feb 2022**
 	- **Paper:** [ProFormer: Towards On-Device LSH Projection Based Transformers](https://aclanthology.org/2021.eacl-main.246.pdf)
 	- **Moderator:** Huiyin
 
-
-Past Meetings
----------------
 * **Mon 07th Feb 2022**
 	- **Paper:** [Structurizing Misinformation Stories via Rationalizing Fact-Checks](https://aclanthology.org/2021.acl-long.51/)
 	- **Moderator:** Cass Zhao
