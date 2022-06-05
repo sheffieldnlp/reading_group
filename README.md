@@ -23,14 +23,31 @@ Please choose an available slot if you'd like to present a paper!
 
 **Upcoming Meeting(s)**
 ---------------
-* **Mon 7th Mar 2022**
-	- **Paper:** [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5/)
-	- **Moderator:** Dylan RS Phelps
 
-
+Will restart after summer break.
 
 Past Meetings
 ---------------
+* **Mon 30 May 2022**
+	- **Paper:** [Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model)](https://arxiv.org/abs/2010.12827)
+	- **Moderator:** Sebastian Vincent
+
+* **Mon 16 May 2022**
+	- **Paper:** [Word Order Does Matter (And Shuffled Language Models Know It)](https://arxiv.org/pdf/2203.10995.pdf)
+	- **Moderator:** Edward Gow-Smith
+
+* **Mon 9 May 2022**
+	- **Paper:** [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+	- **Moderator:** Jasivan A Sivakumar
+
+* **Mon 11th Apr 2022**
+	- **Paper:** [Refocusing on Relevance: Personalization in NLG]([https://aclanthology.org/2021.bionlp-1.5/](https://arxiv.org/pdf/2109.05140.pdf))
+	- **Moderator:** Tomas Goldsack
+
+* **Mon 4th Apr 2022**
+	- **Paper:** [Are we there yet? Exploring clinical domain knowledge of BERT models](https://aclanthology.org/2021.bionlp-1.5/)
+	- **Moderator:** Dylan RS Phelps
+
 * **Mon 7th Mar 2022**
 	- **Paper:** [I Wish I Would Have Loved This One, But I Didn't -- A Multilingual Dataset for Counterfactual Detection in Product Reviews](https://arxiv.org/pdf/2101.00403.pdf)
 	- **Moderator:** Mali Jin
